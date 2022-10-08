@@ -124,3 +124,5 @@ venv.bak/
 .mypy_cache/
 .dmypy.json
 dmypy.json
+
+pyqt_music_app.py
