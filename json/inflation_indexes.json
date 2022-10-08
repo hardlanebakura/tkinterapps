@@ -1,0 +1,686 @@
+[
+    {
+        "country_name": "Afghanistan",
+        "inflation": "1.56"
+    },
+    {
+        "country_name": "Albania",
+        "inflation": "7.38"
+    },
+    {
+        "country_name": "Algeria",
+        "inflation": "4.13"
+    },
+    {
+        "country_name": "Andorra",
+        "inflation": "6.56"
+    },
+    {
+        "country_name": "Angola",
+        "inflation": "22.95"
+    },
+    {
+        "country_name": "Antigua and Barbuda",
+        "inflation": "6.12"
+    },
+    {
+        "country_name": "Argentina",
+        "inflation": "64.95"
+    },
+    {
+        "country_name": "Armenia",
+        "inflation": "22.72"
+    },
+    {
+        "country_name": "Aruba",
+        "inflation": "5.23"
+    },
+    {
+        "country_name": "Australia",
+        "inflation": "6.14"
+    },
+    {
+        "country_name": "Austria",
+        "inflation": "8.73"
+    },
+    {
+        "country_name": "Azerbaijan",
+        "inflation": "14.12"
+    },
+    {
+        "country_name": "Bahamas",
+        "inflation": "4.13"
+    },
+    {
+        "country_name": "Bahrain",
+        "inflation": "3.09"
+    },
+    {
+        "country_name": "Bangladesh",
+        "inflation": "7.30"
+    },
+    {
+        "country_name": "Barbados",
+        "inflation": "5.05"
+    },
+    {
+        "country_name": "Belarus",
+        "inflation": "17.56"
+    },
+    {
+        "country_name": "Belgium",
+        "inflation": "9.62"
+    },
+    {
+        "country_name": "Belize",
+        "inflation": "5.69"
+    },
+    {
+        "country_name": "Benin",
+        "inflation": "-2.56"
+    },
+    {
+        "country_name": "Bermuda",
+        "inflation": "2.54"
+    },
+    {
+        "country_name": "Bhutan",
+        "inflation": "5.57"
+    },
+    {
+        "country_name": "Bolivia",
+        "inflation": "1.79"
+    },
+    {
+        "country_name": "Bosnia and Herzegovina",
+        "inflation": "16.03"
+    },
+    {
+        "country_name": "Botswana",
+        "inflation": "12.73"
+    },
+    {
+        "country_name": "Brazil",
+        "inflation": "11.89"
+    },
+    {
+        "country_name": "Brunei",
+        "inflation": "3.81"
+    },
+    {
+        "country_name": "Bulgaria",
+        "inflation": "16.86"
+    },
+    {
+        "country_name": "Burkina Faso",
+        "inflation": "13.45"
+    },
+    {
+        "country_name": "Burma (Myanmar)",
+        "inflation": "7.28"
+    },
+    {
+        "country_name": "Burundi",
+        "inflation": "17.57"
+    },
+    {
+        "country_name": "Cambodia",
+        "inflation": "7.20"
+    },
+    {
+        "country_name": "Cameroon",
+        "inflation": "4.61"
+    },
+    {
+        "country_name": "Canada",
+        "inflation": "8.13"
+    },
+    {
+        "country_name": "Cape Verde",
+        "inflation": "8.24"
+    },
+    {
+        "country_name": "Chad",
+        "inflation": "4.93"
+    },
+    {
+        "country_name": "Chile",
+        "inflation": "12.49"
+    },
+    {
+        "country_name": "China",
+        "inflation": "2.44"
+    },
+    {
+        "country_name": "Colombia",
+        "inflation": "9.68"
+    },
+    {
+        "country_name": "Comoros",
+        "inflation": "-10.89"
+    },
+    {
+        "country_name": "Costa Rica",
+        "inflation": "10.06"
+    },
+    {
+        "country_name": "Croatia",
+        "inflation": "12.05"
+    },
+    {
+        "country_name": "Cyprus",
+        "inflation": "10.86"
+    },
+    {
+        "country_name": "Czechia",
+        "inflation": "17.19"
+    },
+    {
+        "country_name": "Denmark",
+        "inflation": "8.19"
+    },
+    {
+        "country_name": "Djibouti",
+        "inflation": "0.31"
+    },
+    {
+        "country_name": "Dominica",
+        "inflation": "5.25"
+    },
+    {
+        "country_name": "Dominican Republic",
+        "inflation": "9.48"
+    },
+    {
+        "country_name": "Ecuador",
+        "inflation": "4.24"
+    },
+    {
+        "country_name": "Egypt",
+        "inflation": "14.66"
+    },
+    {
+        "country_name": "El Salvador",
+        "inflation": "7.76"
+    },
+    {
+        "country_name": "Estonia",
+        "inflation": "22.85"
+    },
+    {
+        "country_name": "Ethiopia",
+        "inflation": "34.03"
+    },
+    {
+        "country_name": "Euro area",
+        "inflation": "8.64"
+    },
+    {
+        "country_name": "Faroe Islands",
+        "inflation": "7.22"
+    },
+    {
+        "country_name": "Fiji",
+        "inflation": "5.08"
+    },
+    {
+        "country_name": "Finland",
+        "inflation": "7.79"
+    },
+    {
+        "country_name": "France",
+        "inflation": "5.84"
+    },
+    {
+        "country_name": "Gambia",
+        "inflation": "11.58"
+    },
+    {
+        "country_name": "Georgia",
+        "inflation": "11.55"
+    },
+    {
+        "country_name": "Germany",
+        "inflation": "7.52"
+    },
+    {
+        "country_name": "Ghana",
+        "inflation": "27.59"
+    },
+    {
+        "country_name": "Greece",
+        "inflation": "12.09"
+    },
+    {
+        "country_name": "Grenada",
+        "inflation": "2.92"
+    },
+    {
+        "country_name": "Guatemala",
+        "inflation": "7.55"
+    },
+    {
+        "country_name": "Guinea",
+        "inflation": "12.59"
+    },
+    {
+        "country_name": "Guinea-Bissau",
+        "inflation": "6.75"
+    },
+    {
+        "country_name": "Guyana",
+        "inflation": "6.63"
+    },
+    {
+        "country_name": "Haiti",
+        "inflation": "25.84"
+    },
+    {
+        "country_name": "Honduras",
+        "inflation": "10.22"
+    },
+    {
+        "country_name": "Hong Kong",
+        "inflation": "2.08"
+    },
+    {
+        "country_name": "Hungary",
+        "inflation": "11.70"
+    },
+    {
+        "country_name": "Iceland",
+        "inflation": "9.93"
+    },
+    {
+        "country_name": "India",
+        "inflation": "7.01"
+    },
+    {
+        "country_name": "Indonesia",
+        "inflation": "4.35"
+    },
+    {
+        "country_name": "Iran",
+        "inflation": "56.32"
+    },
+    {
+        "country_name": "Iraq",
+        "inflation": "5.17"
+    },
+    {
+        "country_name": "Ireland",
+        "inflation": "9.06"
+    },
+    {
+        "country_name": "Israel",
+        "inflation": "4.44"
+    },
+    {
+        "country_name": "Italy",
+        "inflation": "7.93"
+    },
+    {
+        "country_name": "Ivory Coast",
+        "inflation": "8.50"
+    },
+    {
+        "country_name": "Jamaica",
+        "inflation": "10.93"
+    },
+    {
+        "country_name": "Japan",
+        "inflation": "1.08"
+    },
+    {
+        "country_name": "Jordan",
+        "inflation": "4.39"
+    },
+    {
+        "country_name": "Kazakhstan",
+        "inflation": "14.55"
+    },
+    {
+        "country_name": "Kenya",
+        "inflation": "8.32"
+    },
+    {
+        "country_name": "Kuwait",
+        "inflation": "4.52"
+    },
+    {
+        "country_name": "Kyrgyzstan",
+        "inflation": "11.18"
+    },
+    {
+        "country_name": "Laos",
+        "inflation": "8.54"
+    },
+    {
+        "country_name": "Latvia",
+        "inflation": "19.30"
+    },
+    {
+        "country_name": "Lebanon",
+        "inflation": "210.08"
+    },
+    {
+        "country_name": "Lesotho",
+        "inflation": "6.17"
+    },
+    {
+        "country_name": "Liberia",
+        "inflation": "4.42"
+    },
+    {
+        "country_name": "Libya",
+        "inflation": "3.64"
+    },
+    {
+        "country_name": "Liechtenstein",
+        "inflation": "3.43"
+    },
+    {
+        "country_name": "Lithuania",
+        "inflation": "20.98"
+    },
+    {
+        "country_name": "Luxembourg",
+        "inflation": "6.76"
+    },
+    {
+        "country_name": "Macao",
+        "inflation": "0.93"
+    },
+    {
+        "country_name": "North Macedonia",
+        "inflation": "14.43"
+    },
+    {
+        "country_name": "Madagascar",
+        "inflation": "6.40"
+    },
+    {
+        "country_name": "Malawi",
+        "inflation": "23.50"
+    },
+    {
+        "country_name": "Malaysia",
+        "inflation": "3.08"
+    },
+    {
+        "country_name": "Maldives",
+        "inflation": "5.19"
+    },
+    {
+        "country_name": "Mali",
+        "inflation": "8.72"
+    },
+    {
+        "country_name": "Malta",
+        "inflation": "6.12"
+    },
+    {
+        "country_name": "Mauritania",
+        "inflation": "9.56"
+    },
+    {
+        "country_name": "Mauritius",
+        "inflation": "9.61"
+    },
+    {
+        "country_name": "Mexico",
+        "inflation": "7.99"
+    },
+    {
+        "country_name": "Moldova",
+        "inflation": "31.83"
+    },
+    {
+        "country_name": "Mongolia",
+        "inflation": "15.11"
+    },
+    {
+        "country_name": "Montenegro",
+        "inflation": "13.52"
+    },
+    {
+        "country_name": "Montserrat",
+        "inflation": "6.26"
+    },
+    {
+        "country_name": "Morocco",
+        "inflation": "7.31"
+    },
+    {
+        "country_name": "Mozambique",
+        "inflation": "10.81"
+    },
+    {
+        "country_name": "Namibia",
+        "inflation": "5.99"
+    },
+    {
+        "country_name": "Nepal",
+        "inflation": "7.14"
+    },
+    {
+        "country_name": "Netherlands",
+        "inflation": "10.29"
+    },
+    {
+        "country_name": "New Caledonia",
+        "inflation": "3.77"
+    },
+    {
+        "country_name": "New Zealand",
+        "inflation": "7.30"
+    },
+    {
+        "country_name": "Nicaragua",
+        "inflation": "3.62"
+    },
+    {
+        "country_name": "Niger",
+        "inflation": "5.27"
+    },
+    {
+        "country_name": "Nigeria",
+        "inflation": "18.60"
+    },
+    {
+        "country_name": "Norway",
+        "inflation": "6.33"
+    },
+    {
+        "country_name": "Oman",
+        "inflation": "2.63"
+    },
+    {
+        "country_name": "Pakistan",
+        "inflation": "24.93"
+    },
+    {
+        "country_name": "Palestine",
+        "inflation": "9.11"
+    },
+    {
+        "country_name": "Panama",
+        "inflation": "4.22"
+    },
+    {
+        "country_name": "Papua New Guinea",
+        "inflation": "5.70"
+    },
+    {
+        "country_name": "Paraguay",
+        "inflation": "11.05"
+    },
+    {
+        "country_name": "Peru",
+        "inflation": "9.32"
+    },
+    {
+        "country_name": "Philippines",
+        "inflation": "4.37"
+    },
+    {
+        "country_name": "Poland",
+        "inflation": "15.56"
+    },
+    {
+        "country_name": "Portugal",
+        "inflation": "8.73"
+    },
+    {
+        "country_name": "Puerto Rico",
+        "inflation": "7.24"
+    },
+    {
+        "country_name": "Qatar",
+        "inflation": "5.41"
+    },
+    {
+        "country_name": "Republic of the Congo",
+        "inflation": "1.12"
+    },
+    {
+        "country_name": "Romania",
+        "inflation": "15.05"
+    },
+    {
+        "country_name": "Russia",
+        "inflation": "8.64"
+    },
+    {
+        "country_name": "Rwanda",
+        "inflation": "16.17"
+    },
+    {
+        "country_name": "Saint Lucia",
+        "inflation": "6.22"
+    },
+    {
+        "country_name": "Saint Vincent and the Grenadines",
+        "inflation": "3.59"
+    },
+    {
+        "country_name": "Samoa",
+        "inflation": "8.93"
+    },
+    {
+        "country_name": "Sao Tome and Principe",
+        "inflation": "14.94"
+    },
+    {
+        "country_name": "Saudi Arabia",
+        "inflation": "2.31"
+    },
+    {
+        "country_name": "Senegal",
+        "inflation": "8.89"
+    },
+    {
+        "country_name": "Serbia",
+        "inflation": "11.87"
+    },
+    {
+        "country_name": "Seychelles",
+        "inflation": "2.05"
+    },
+    {
+        "country_name": "Sierra Leone",
+        "inflation": "6.42"
+    },
+    {
+        "country_name": "Singapore",
+        "inflation": "5.99"
+    },
+    {
+        "country_name": "Slovakia",
+        "inflation": "13.26"
+    },
+    {
+        "country_name": "Slovenia",
+        "inflation": "11.04"
+    },
+    {
+        "country_name": "Solomon Islands",
+        "inflation": "1.55"
+    },
+    {
+        "country_name": "Somalia",
+        "inflation": "6.99"
+    },
+    {
+        "country_name": "South Africa",
+        "inflation": "5.80"
+    },
+    {
+        "country_name": "South Korea",
+        "inflation": "6.34"
+    },
+    {
+        "country_name": "Spain",
+        "inflation": "10.22"
+    },
+    {
+        "country_name": "Sudan",
+        "inflation": "263.15"
+    },
+    {
+        "country_name": "Suriname",
+        "inflation": "55.61"
+    },
+    {
+        "country_name": "Swaziland",
+        "inflation": "3.30"
+    },
+    {
+        "country_name": "Sweden",
+        "inflation": "8.68"
+    },
+    {
+        "country_name": "Switzerland",
+        "inflation": "3.43"
+    },
+    {
+        "country_name": "Taiwan",
+        "inflation": "3.59"
+    },
+    {
+        "country_name": "Tajikistan",
+        "inflation": "7.31"
+    },
+    {
+        "country_name": "Tanzania",
+        "inflation": "4.44"
+    },
+    {
+        "country_name": "Thailand",
+        "inflation": "7.66"
+    },
+    {
+        "country_name": "Togo",
+        "inflation": "8.04"
+    },
+    {
+        "country_name": "Tonga",
+        "inflation": "9.22"
+    },
+    {
+        "country_name": "Trinidad and Tobago",
+        "inflation": "4.09"
+    },
+    {
+        "country_name": "Tunisia",
+        "inflation": "8.10"
+    },
+    {
+        "country_name": "Turkey",
+        "inflation": "79.60"
+    },
+    {
+        "country_name": "USA",
+        "inflation": "9.06"
+    }
+]

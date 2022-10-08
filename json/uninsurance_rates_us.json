@@ -1,0 +1,206 @@
+[
+    {
+        "state": "New Mexico",
+        "uninsurance_rate": "9.8%"
+    },
+    {
+        "state": "Alabama",
+        "uninsurance_rate": "9.7%"
+    },
+    {
+        "state": "South Dakota",
+        "uninsurance_rate": "9.6%"
+    },
+    {
+        "state": "Utah",
+        "uninsurance_rate": "9.6%"
+    },
+    {
+        "state": "Kansas",
+        "uninsurance_rate": "9.2%"
+    },
+    {
+        "state": "Arkansas",
+        "uninsurance_rate": "9.1%"
+    },
+    {
+        "state": "Louisiana",
+        "uninsurance_rate": "8.9%"
+    },
+    {
+        "state": "Indiana",
+        "uninsurance_rate": "8.8%"
+    },
+    {
+        "state": "Montana",
+        "uninsurance_rate": "8.3%"
+    },
+    {
+        "state": "Maine",
+        "uninsurance_rate": "8.1%"
+    },
+    {
+        "state": "Virginia",
+        "uninsurance_rate": "8.0%"
+    },
+    {
+        "state": "Nebraska",
+        "uninsurance_rate": "7.9%"
+    },
+    {
+        "state": "New Jersey",
+        "uninsurance_rate": "7.9%"
+    },
+    {
+        "state": "California",
+        "uninsurance_rate": "7.8%"
+    },
+    {
+        "state": "Colorado",
+        "uninsurance_rate": "7.8%"
+    },
+    {
+        "state": "North Dakota",
+        "uninsurance_rate": "7.4%"
+    },
+    {
+        "state": "Illinois",
+        "uninsurance_rate": "7.3%"
+    },
+    {
+        "state": "Oregon",
+        "uninsurance_rate": "7.1%"
+    },
+    {
+        "state": "Ohio",
+        "uninsurance_rate": "6.7%"
+    },
+    {
+        "state": "Delaware",
+        "uninsurance_rate": "6.6%"
+    },
+    {
+        "state": "Washington",
+        "uninsurance_rate": "6.6%"
+    },
+    {
+        "state": "West Virginia",
+        "uninsurance_rate": "6.6%"
+    },
+    {
+        "state": "Kentucky",
+        "uninsurance_rate": "6.4%"
+    },
+    {
+        "state": "New Hampshire",
+        "uninsurance_rate": "6.4%"
+    },
+    {
+        "state": "Connecticut",
+        "uninsurance_rate": "5.9%"
+    },
+    {
+        "state": "Maryland",
+        "uninsurance_rate": "5.9%"
+    },
+    {
+        "state": "Michigan",
+        "uninsurance_rate": "5.8%"
+    },
+    {
+        "state": "Wisconsin",
+        "uninsurance_rate": "5.8%"
+    },
+    {
+        "state": "Pennsylvania",
+        "uninsurance_rate": "5.7%"
+    },
+    {
+        "state": "New York",
+        "uninsurance_rate": "5.3%"
+    },
+    {
+        "state": "Minnesota",
+        "uninsurance_rate": "4.8%"
+    },
+    {
+        "state": "Iowa",
+        "uninsurance_rate": "4.7%"
+    },
+    {
+        "state": "Vermont",
+        "uninsurance_rate": "4.4%"
+    },
+    {
+        "state": "Rhode Island",
+        "uninsurance_rate": "4.3%"
+    },
+    {
+        "state": "Hawaii",
+        "uninsurance_rate": "4.1%"
+    },
+    {
+        "state": "District of Columbia",
+        "uninsurance_rate": "3.6%"
+    },
+    {
+        "state": "Massachusetts",
+        "uninsurance_rate": "3.0%"
+    },
+    {
+        "state": "Texas",
+        "uninsurance_rate": "18.4%"
+    },
+    {
+        "state": "Oklahoma",
+        "uninsurance_rate": "14.9%"
+    },
+    {
+        "state": "Georgia",
+        "uninsurance_rate": "13.4%"
+    },
+    {
+        "state": "Florida",
+        "uninsurance_rate": "13.1%"
+    },
+    {
+        "state": "Mississippi",
+        "uninsurance_rate": "12.9%"
+    },
+    {
+        "state": "Alaska",
+        "uninsurance_rate": "11.5%"
+    },
+    {
+        "state": "Nevada",
+        "uninsurance_rate": "11.5%"
+    },
+    {
+        "state": "North Carolina",
+        "uninsurance_rate": "11.4%"
+    },
+    {
+        "state": "Arizona",
+        "uninsurance_rate": "11.1%"
+    },
+    {
+        "state": "South Carolina",
+        "uninsurance_rate": "10.8%"
+    },
+    {
+        "state": "Idaho",
+        "uninsurance_rate": "10.5%"
+    },
+    {
+        "state": "Tennessee",
+        "uninsurance_rate": "10.2%"
+    },
+    {
+        "state": "Missouri",
+        "uninsurance_rate": "10.1%"
+    },
+    {
+        "state": "Wyoming",
+        "uninsurance_rate": "12.4%"
+    }
+]

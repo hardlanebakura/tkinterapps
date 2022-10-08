@@ -1,0 +1,206 @@
+[
+    {
+        "state": "Florida",
+        "temperature": "71.5"
+    },
+    {
+        "state": "Hawaii",
+        "temperature": "70.2"
+    },
+    {
+        "state": "Louisiana",
+        "temperature": "67.2"
+    },
+    {
+        "state": "Texas",
+        "temperature": "65.8"
+    },
+    {
+        "state": "Georgia",
+        "temperature": "64.3"
+    },
+    {
+        "state": "Mississippi",
+        "temperature": "64.3"
+    },
+    {
+        "state": "Alabama",
+        "temperature": "63.7"
+    },
+    {
+        "state": "South Carolina",
+        "temperature": "63.4"
+    },
+    {
+        "state": "Arizona",
+        "temperature": "61.1"
+    },
+    {
+        "state": "Arkansas",
+        "temperature": "61.1"
+    },
+    {
+        "state": "Oklahoma",
+        "temperature": "60.4"
+    },
+    {
+        "state": "North Carolina",
+        "temperature": "59.6"
+    },
+    {
+        "state": "California",
+        "temperature": "59.1"
+    },
+    {
+        "state": "Tennessee",
+        "temperature": "58.5"
+    },
+    {
+        "state": "Kentucky",
+        "temperature": "56.4"
+    },
+    {
+        "state": "Delaware",
+        "temperature": "56.3"
+    },
+    {
+        "state": "Virginia",
+        "temperature": "56.1"
+    },
+    {
+        "state": "Maryland",
+        "temperature": "55.5"
+    },
+    {
+        "state": "Missouri",
+        "temperature": "55.3"
+    },
+    {
+        "state": "Kansas",
+        "temperature": "55.1"
+    },
+    {
+        "state": "New Mexico",
+        "temperature": "54.5"
+    },
+    {
+        "state": "New Jersey",
+        "temperature": "53.6"
+    },
+    {
+        "state": "Illinois",
+        "temperature": "52.7"
+    },
+    {
+        "state": "West Virginia",
+        "temperature": "52.7"
+    },
+    {
+        "state": "Indiana",
+        "temperature": "52.5"
+    },
+    {
+        "state": "Ohio",
+        "temperature": "51.8"
+    },
+    {
+        "state": "Nevada",
+        "temperature": "51.1"
+    },
+    {
+        "state": "Rhode Island",
+        "temperature": "50.8"
+    },
+    {
+        "state": "District of Columbia",
+        "temperature": "50.4"
+    },
+    {
+        "state": "Connecticut",
+        "temperature": "50"
+    },
+    {
+        "state": "Pennsylvania",
+        "temperature": "49.6"
+    },
+    {
+        "state": "Nebraska",
+        "temperature": "49.5"
+    },
+    {
+        "state": "Utah",
+        "temperature": "49.3"
+    },
+    {
+        "state": "Massachusetts",
+        "temperature": "48.9"
+    },
+    {
+        "state": "Iowa",
+        "temperature": "48.4"
+    },
+    {
+        "state": "Oregon",
+        "temperature": "48"
+    },
+    {
+        "state": "Washington",
+        "temperature": "47.4"
+    },
+    {
+        "state": "Colorado",
+        "temperature": "46.3"
+    },
+    {
+        "state": "New York",
+        "temperature": "46.1"
+    },
+    {
+        "state": "South Dakota",
+        "temperature": "45.8"
+    },
+    {
+        "state": "Michigan",
+        "temperature": "45.3"
+    },
+    {
+        "state": "New Hampshire",
+        "temperature": "44.2"
+    },
+    {
+        "state": "Idaho",
+        "temperature": "44"
+    },
+    {
+        "state": "Wisconsin",
+        "temperature": "44"
+    },
+    {
+        "state": "Vermont",
+        "temperature": "43.2"
+    },
+    {
+        "state": "Montana",
+        "temperature": "42.6"
+    },
+    {
+        "state": "Wyoming",
+        "temperature": "42.3"
+    },
+    {
+        "state": "Maine",
+        "temperature": "41.9"
+    },
+    {
+        "state": "Minnesota",
+        "temperature": "41.8"
+    },
+    {
+        "state": "North Dakota",
+        "temperature": "41.1"
+    },
+    {
+        "state": "Alaska",
+        "temperature": "28.1"
+    }
+]

@@ -1,0 +1,686 @@
+[
+    {
+        "country_name": "Burma",
+        "country_group_grievance": "9.9"
+    },
+    {
+        "country_name": "Syria",
+        "country_group_grievance": "9.7"
+    },
+    {
+        "country_name": "Turkey",
+        "country_group_grievance": "9.7"
+    },
+    {
+        "country_name": "Bahrain",
+        "country_group_grievance": "9.6"
+    },
+    {
+        "country_name": "Rwanda",
+        "country_group_grievance": "9.6"
+    },
+    {
+        "country_name": "Ethiopia",
+        "country_group_grievance": "9.5"
+    },
+    {
+        "country_name": "Sudan",
+        "country_group_grievance": "9.5"
+    },
+    {
+        "country_name": "DR Congo",
+        "country_group_grievance": "9.4"
+    },
+    {
+        "country_name": "Guatemala",
+        "country_group_grievance": "9.4"
+    },
+    {
+        "country_name": "Nepal",
+        "country_group_grievance": "9.4"
+    },
+    {
+        "country_name": "Yemen",
+        "country_group_grievance": "9.4"
+    },
+    {
+        "country_name": "Guinea",
+        "country_group_grievance": "9.3"
+    },
+    {
+        "country_name": "Iran",
+        "country_group_grievance": "9.3"
+    },
+    {
+        "country_name": "Bhutan",
+        "country_group_grievance": "9.1"
+    },
+    {
+        "country_name": "Montenegro",
+        "country_group_grievance": "9.1"
+    },
+    {
+        "country_name": "Saudi Arabia",
+        "country_group_grievance": "9"
+    },
+    {
+        "country_name": "Nigeria",
+        "country_group_grievance": "8.8"
+    },
+    {
+        "country_name": "Pakistan",
+        "country_group_grievance": "8.8"
+    },
+    {
+        "country_name": "Cameroon",
+        "country_group_grievance": "8.7"
+    },
+    {
+        "country_name": "Bangladesh",
+        "country_group_grievance": "8.6"
+    },
+    {
+        "country_name": "Jordan",
+        "country_group_grievance": "8.6"
+    },
+    {
+        "country_name": "Peru",
+        "country_group_grievance": "8.6"
+    },
+    {
+        "country_name": "Sri Lanka",
+        "country_group_grievance": "8.6"
+    },
+    {
+        "country_name": "Morocco",
+        "country_group_grievance": "8.5"
+    },
+    {
+        "country_name": "Egypt",
+        "country_group_grievance": "8.3"
+    },
+    {
+        "country_name": "Eritrea",
+        "country_group_grievance": "8.3"
+    },
+    {
+        "country_name": "Latvia",
+        "country_group_grievance": "8.3"
+    },
+    {
+        "country_name": "Somalia",
+        "country_group_grievance": "8.3"
+    },
+    {
+        "country_name": "India",
+        "country_group_grievance": "8.2"
+    },
+    {
+        "country_name": "Iraq",
+        "country_group_grievance": "8.2"
+    },
+    {
+        "country_name": "Angola",
+        "country_group_grievance": "8.1"
+    },
+    {
+        "country_name": "C.A. Republic",
+        "country_group_grievance": "8.1"
+    },
+    {
+        "country_name": "Kyrgyzstan",
+        "country_group_grievance": "8.1"
+    },
+    {
+        "country_name": "Mali",
+        "country_group_grievance": "8.1"
+    },
+    {
+        "country_name": "Chad",
+        "country_group_grievance": "8"
+    },
+    {
+        "country_name": "Kazakhstan",
+        "country_group_grievance": "8"
+    },
+    {
+        "country_name": "Kenya",
+        "country_group_grievance": "8"
+    },
+    {
+        "country_name": "Russia",
+        "country_group_grievance": "8"
+    },
+    {
+        "country_name": "Lebanon",
+        "country_group_grievance": "7.9"
+    },
+    {
+        "country_name": "Uganda",
+        "country_group_grievance": "7.8"
+    },
+    {
+        "country_name": "Brazil",
+        "country_group_grievance": "7.7"
+    },
+    {
+        "country_name": "Colombia",
+        "country_group_grievance": "7.5"
+    },
+    {
+        "country_name": "Libya",
+        "country_group_grievance": "7.5"
+    },
+    {
+        "country_name": "Niger",
+        "country_group_grievance": "7.5"
+    },
+    {
+        "country_name": "Estonia",
+        "country_group_grievance": "7.4"
+    },
+    {
+        "country_name": "Burundi",
+        "country_group_grievance": "7.3"
+    },
+    {
+        "country_name": "Georgia",
+        "country_group_grievance": "7.3"
+    },
+    {
+        "country_name": "Ivory Coast",
+        "country_group_grievance": "7.3"
+    },
+    {
+        "country_name": "Mauritania",
+        "country_group_grievance": "7.3"
+    },
+    {
+        "country_name": "Philippines",
+        "country_group_grievance": "7.3"
+    },
+    {
+        "country_name": "Thailand",
+        "country_group_grievance": "7.3"
+    },
+    {
+        "country_name": "Afghanistan",
+        "country_group_grievance": "7.2"
+    },
+    {
+        "country_name": "Algeria",
+        "country_group_grievance": "7.2"
+    },
+    {
+        "country_name": "Laos",
+        "country_group_grievance": "7.2"
+    },
+    {
+        "country_name": "China",
+        "country_group_grievance": "7.1"
+    },
+    {
+        "country_name": "Indonesia",
+        "country_group_grievance": "7.1"
+    },
+    {
+        "country_name": "Serbia",
+        "country_group_grievance": "7.1"
+    },
+    {
+        "country_name": "Tunisia",
+        "country_group_grievance": "7.1"
+    },
+    {
+        "country_name": "Venezuela",
+        "country_group_grievance": "7"
+    },
+    {
+        "country_name": "Eq. Guinea",
+        "country_group_grievance": "6.9"
+    },
+    {
+        "country_name": "Israel",
+        "country_group_grievance": "6.7"
+    },
+    {
+        "country_name": "Spain",
+        "country_group_grievance": "6.7"
+    },
+    {
+        "country_name": "Tajikistan",
+        "country_group_grievance": "6.7"
+    },
+    {
+        "country_name": "Bosnia & Herz.",
+        "country_group_grievance": "6.6"
+    },
+    {
+        "country_name": "Brunei",
+        "country_group_grievance": "6.5"
+    },
+    {
+        "country_name": "Guyana",
+        "country_group_grievance": "6.5"
+    },
+    {
+        "country_name": "USA",
+        "country_group_grievance": "6.5"
+    },
+    {
+        "country_name": "France",
+        "country_group_grievance": "6.4"
+    },
+    {
+        "country_name": "Moldova",
+        "country_group_grievance": "6.4"
+    },
+    {
+        "country_name": "Suriname",
+        "country_group_grievance": "6.4"
+    },
+    {
+        "country_name": "Mexico",
+        "country_group_grievance": "6.3"
+    },
+    {
+        "country_name": "Azerbaijan",
+        "country_group_grievance": "6.1"
+    },
+    {
+        "country_name": "Cambodia",
+        "country_group_grievance": "6.1"
+    },
+    {
+        "country_name": "Ecuador",
+        "country_group_grievance": "6.1"
+    },
+    {
+        "country_name": "UK",
+        "country_group_grievance": "6.1"
+    },
+    {
+        "country_name": "Zimbabwe",
+        "country_group_grievance": "6.1"
+    },
+    {
+        "country_name": "North Macedonia",
+        "country_group_grievance": "6"
+    },
+    {
+        "country_name": "Romania",
+        "country_group_grievance": "6"
+    },
+    {
+        "country_name": "Togo",
+        "country_group_grievance": "6"
+    },
+    {
+        "country_name": "Uzbekistan",
+        "country_group_grievance": "6"
+    },
+    {
+        "country_name": "Belarus",
+        "country_group_grievance": "5.9"
+    },
+    {
+        "country_name": "Nicaragua",
+        "country_group_grievance": "5.9"
+    },
+    {
+        "country_name": "South Africa",
+        "country_group_grievance": "5.9"
+    },
+    {
+        "country_name": "Mozambique",
+        "country_group_grievance": "5.8"
+    },
+    {
+        "country_name": "Fiji",
+        "country_group_grievance": "5.7"
+    },
+    {
+        "country_name": "Slovakia",
+        "country_group_grievance": "5.7"
+    },
+    {
+        "country_name": "Ukraine",
+        "country_group_grievance": "5.7"
+    },
+    {
+        "country_name": "Bolivia",
+        "country_group_grievance": "5.6"
+    },
+    {
+        "country_name": "Panama",
+        "country_group_grievance": "5.6"
+    },
+    {
+        "country_name": "Poland",
+        "country_group_grievance": "5.6"
+    },
+    {
+        "country_name": "Sierra Leone",
+        "country_group_grievance": "5.6"
+    },
+    {
+        "country_name": "Turkmenistan",
+        "country_group_grievance": "5.6"
+    },
+    {
+        "country_name": "El Salvador",
+        "country_group_grievance": "5.5"
+    },
+    {
+        "country_name": "Malaysia",
+        "country_group_grievance": "5.4"
+    },
+    {
+        "country_name": "Armenia",
+        "country_group_grievance": "5.3"
+    },
+    {
+        "country_name": "Djibouti",
+        "country_group_grievance": "5.3"
+    },
+    {
+        "country_name": "Haiti",
+        "country_group_grievance": "5.3"
+    },
+    {
+        "country_name": "Solomon Isl.",
+        "country_group_grievance": "5.3"
+    },
+    {
+        "country_name": "Zambia",
+        "country_group_grievance": "5.3"
+    },
+    {
+        "country_name": "North Korea",
+        "country_group_grievance": "5.2"
+    },
+    {
+        "country_name": "Senegal",
+        "country_group_grievance": "5.2"
+    },
+    {
+        "country_name": "Vietnam",
+        "country_group_grievance": "5.2"
+    },
+    {
+        "country_name": "Cyprus",
+        "country_group_grievance": "5.1"
+    },
+    {
+        "country_name": "Papua N.G.",
+        "country_group_grievance": "5.1"
+    },
+    {
+        "country_name": "Honduras",
+        "country_group_grievance": "5"
+    },
+    {
+        "country_name": "Palestine",
+        "country_group_grievance": "5"
+    },
+    {
+        "country_name": "Croatia",
+        "country_group_grievance": "4.9"
+    },
+    {
+        "country_name": "Tanzania",
+        "country_group_grievance": "4.9"
+    },
+    {
+        "country_name": "Belize",
+        "country_group_grievance": "4.7"
+    },
+    {
+        "country_name": "Malawi",
+        "country_group_grievance": "4.7"
+    },
+    {
+        "country_name": "Czechia",
+        "country_group_grievance": "4.6"
+    },
+    {
+        "country_name": "Domin. Rep.",
+        "country_group_grievance": "4.6"
+    },
+    {
+        "country_name": "Liberia",
+        "country_group_grievance": "4.6"
+    },
+    {
+        "country_name": "Namibia",
+        "country_group_grievance": "4.6"
+    },
+    {
+        "country_name": "Paraguay",
+        "country_group_grievance": "4.6"
+    },
+    {
+        "country_name": "Burkina Faso",
+        "country_group_grievance": "4.5"
+    },
+    {
+        "country_name": "Samoa",
+        "country_group_grievance": "4.5"
+    },
+    {
+        "country_name": "Mauritius",
+        "country_group_grievance": "4.4"
+    },
+    {
+        "country_name": "G.-Bissau",
+        "country_group_grievance": "4.3"
+    },
+    {
+        "country_name": "Italy",
+        "country_group_grievance": "4.3"
+    },
+    {
+        "country_name": "Bulgaria",
+        "country_group_grievance": "4.2"
+    },
+    {
+        "country_name": "Comoros",
+        "country_group_grievance": "4.2"
+    },
+    {
+        "country_name": "Greece",
+        "country_group_grievance": "4.2"
+    },
+    {
+        "country_name": "Albania",
+        "country_group_grievance": "4.1"
+    },
+    {
+        "country_name": "Belgium",
+        "country_group_grievance": "4.1"
+    },
+    {
+        "country_name": "Kuwait",
+        "country_group_grievance": "4.1"
+    },
+    {
+        "country_name": "Seychelles",
+        "country_group_grievance": "4.1"
+    },
+    {
+        "country_name": "Germany",
+        "country_group_grievance": "4"
+    },
+    {
+        "country_name": "Maldives",
+        "country_group_grievance": "4"
+    },
+    {
+        "country_name": "Austria",
+        "country_group_grievance": "3.9"
+    },
+    {
+        "country_name": "Botswana",
+        "country_group_grievance": "3.9"
+    },
+    {
+        "country_name": "Argentina",
+        "country_group_grievance": "3.8"
+    },
+    {
+        "country_name": "Denmark",
+        "country_group_grievance": "3.7"
+    },
+    {
+        "country_name": "Grenada",
+        "country_group_grievance": "3.6"
+    },
+    {
+        "country_name": "Hungary",
+        "country_group_grievance": "3.6"
+    },
+    {
+        "country_name": "Netherlands",
+        "country_group_grievance": "3.6"
+    },
+    {
+        "country_name": "Slovenia",
+        "country_group_grievance": "3.6"
+    },
+    {
+        "country_name": "Qatar",
+        "country_group_grievance": "3.4"
+    },
+    {
+        "country_name": "Lithuania",
+        "country_group_grievance": "3.3"
+    },
+    {
+        "country_name": "Macao",
+        "country_group_grievance": "3.3"
+    },
+    {
+        "country_name": "Norway",
+        "country_group_grievance": "3.3"
+    },
+    {
+        "country_name": "Chile",
+        "country_group_grievance": "3.2"
+    },
+    {
+        "country_name": "Ghana",
+        "country_group_grievance": "3.2"
+    },
+    {
+        "country_name": "Australia",
+        "country_group_grievance": "3.1"
+    },
+    {
+        "country_name": "Costa Rica",
+        "country_group_grievance": "3"
+    },
+    {
+        "country_name": "Tr.&Tobago",
+        "country_group_grievance": "3"
+    },
+    {
+        "country_name": "Bahamas",
+        "country_group_grievance": "2.9"
+    },
+    {
+        "country_name": "Barbados",
+        "country_group_grievance": "2.9"
+    },
+    {
+        "country_name": "Cape Verde",
+        "country_group_grievance": "2.9"
+    },
+    {
+        "country_name": "Cuba",
+        "country_group_grievance": "2.8"
+    },
+    {
+        "country_name": "UA Emirates",
+        "country_group_grievance": "2.8"
+    },
+    {
+        "country_name": "Lesotho",
+        "country_group_grievance": "2.7"
+    },
+    {
+        "country_name": "Malta",
+        "country_group_grievance": "2.7"
+    },
+    {
+        "country_name": "Switzerland",
+        "country_group_grievance": "2.7"
+    },
+    {
+        "country_name": "Benin",
+        "country_group_grievance": "2.6"
+    },
+    {
+        "country_name": "Gabon",
+        "country_group_grievance": "2.6"
+    },
+    {
+        "country_name": "Gambia",
+        "country_group_grievance": "2.6"
+    },
+    {
+        "country_name": "Mongolia",
+        "country_group_grievance": "2.6"
+    },
+    {
+        "country_name": "New Zealand",
+        "country_group_grievance": "2.6"
+    },
+    {
+        "country_name": "Japan",
+        "country_group_grievance": "2.5"
+    },
+    {
+        "country_name": "Uruguay",
+        "country_group_grievance": "2.4"
+    },
+    {
+        "country_name": "Oman",
+        "country_group_grievance": "2.3"
+    },
+    {
+        "country_name": "South Korea",
+        "country_group_grievance": "2.3"
+    },
+    {
+        "country_name": "Canada",
+        "country_group_grievance": "2.2"
+    },
+    {
+        "country_name": "Jamaica",
+        "country_group_grievance": "2.2"
+    },
+    {
+        "country_name": "Singapore",
+        "country_group_grievance": "2.2"
+    },
+    {
+        "country_name": "Swaziland",
+        "country_group_grievance": "2.2"
+    },
+    {
+        "country_name": "Luxembourg",
+        "country_group_grievance": "2.1"
+    },
+    {
+        "country_name": "Sweden",
+        "country_group_grievance": "1.7"
+    },
+    {
+        "country_name": "Portugal",
+        "country_group_grievance": "1.3"
+    },
+    {
+        "country_name": "Finland",
+        "country_group_grievance": "0.6"
+    }
+]

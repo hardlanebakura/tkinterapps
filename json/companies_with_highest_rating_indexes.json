@@ -1,0 +1,54 @@
+[
+    {
+        "company": "Facebook",
+        "satisfaction_percentage": "97%"
+    },
+    {
+        "company": "Salesforce.com",
+        "satisfaction_percentage": "90%"
+    },
+    {
+        "company": "Southern Co.",
+        "satisfaction_percentage": "88%"
+    },
+    {
+        "company": "Google",
+        "satisfaction_percentage": "86%"
+    },
+    {
+        "company": "NRG Energy",
+        "satisfaction_percentage": "85%"
+    },
+    {
+        "company": "Gilead Sciences",
+        "satisfaction_percentage": "85%"
+    },
+    {
+        "company": "Allergan",
+        "satisfaction_percentage": "84%"
+    },
+    {
+        "company": "USAA",
+        "satisfaction_percentage": "83%"
+    },
+    {
+        "company": "Procter & Gamble",
+        "satisfaction_percentage": "82%"
+    },
+    {
+        "company": "DuPont",
+        "satisfaction_percentage": "81%"
+    },
+    {
+        "company": "Chevron",
+        "satisfaction_percentage": "81%"
+    },
+    {
+        "company": "3M",
+        "satisfaction_percentage": "80%"
+    },
+    {
+        "company": "American Express",
+        "satisfaction_percentage": "80%"
+    }
+]

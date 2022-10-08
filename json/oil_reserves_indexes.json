@@ -1,0 +1,686 @@
+[
+    {
+        "country_name": "Venezuela",
+        "oil_reserves": "303.81"
+    },
+    {
+        "country_name": "Saudi Arabia",
+        "oil_reserves": "258.6"
+    },
+    {
+        "country_name": "Iran",
+        "oil_reserves": "208.6"
+    },
+    {
+        "country_name": "Canada",
+        "oil_reserves": "170.3"
+    },
+    {
+        "country_name": "Iraq",
+        "oil_reserves": "145.02"
+    },
+    {
+        "country_name": "Kuwait",
+        "oil_reserves": "101.5"
+    },
+    {
+        "country_name": "UA Emirates",
+        "oil_reserves": "97.8"
+    },
+    {
+        "country_name": "Russia",
+        "oil_reserves": "80"
+    },
+    {
+        "country_name": "Libya",
+        "oil_reserves": "48.36"
+    },
+    {
+        "country_name": "Nigeria",
+        "oil_reserves": "36.89"
+    },
+    {
+        "country_name": "Kazakhstan",
+        "oil_reserves": "30"
+    },
+    {
+        "country_name": "China",
+        "oil_reserves": "26.02"
+    },
+    {
+        "country_name": "Qatar",
+        "oil_reserves": "25.24"
+    },
+    {
+        "country_name": "Brazil",
+        "oil_reserves": "12.71"
+    },
+    {
+        "country_name": "Algeria",
+        "oil_reserves": "12.2"
+    },
+    {
+        "country_name": "Ecuador",
+        "oil_reserves": "8.27"
+    },
+    {
+        "country_name": "Norway",
+        "oil_reserves": "8.12"
+    },
+    {
+        "country_name": "Angola",
+        "oil_reserves": "7.78"
+    },
+    {
+        "country_name": "Azerbaijan",
+        "oil_reserves": "7"
+    },
+    {
+        "country_name": "Mexico",
+        "oil_reserves": "5.79"
+    },
+    {
+        "country_name": "Oman",
+        "oil_reserves": "5.37"
+    },
+    {
+        "country_name": "Sudan",
+        "oil_reserves": "5"
+    },
+    {
+        "country_name": "India",
+        "oil_reserves": "4.6"
+    },
+    {
+        "country_name": "Vietnam",
+        "oil_reserves": "4.4"
+    },
+    {
+        "country_name": "Malaysia",
+        "oil_reserves": "3.6"
+    },
+    {
+        "country_name": "Egypt",
+        "oil_reserves": "3.3"
+    },
+    {
+        "country_name": "Yemen",
+        "oil_reserves": "3"
+    },
+    {
+        "country_name": "R. of Congo",
+        "oil_reserves": "2.88"
+    },
+    {
+        "country_name": "Syria",
+        "oil_reserves": "2.5"
+    },
+    {
+        "country_name": "Uganda",
+        "oil_reserves": "2.5"
+    },
+    {
+        "country_name": "UK",
+        "oil_reserves": "2.5"
+    },
+    {
+        "country_name": "Argentina",
+        "oil_reserves": "2.48"
+    },
+    {
+        "country_name": "Indonesia",
+        "oil_reserves": "2.48"
+    },
+    {
+        "country_name": "Australia",
+        "oil_reserves": "2.45"
+    },
+    {
+        "country_name": "Colombia",
+        "oil_reserves": "2.04"
+    },
+    {
+        "country_name": "Gabon",
+        "oil_reserves": "2"
+    },
+    {
+        "country_name": "Chad",
+        "oil_reserves": "1.5"
+    },
+    {
+        "country_name": "Brunei",
+        "oil_reserves": "1.1"
+    },
+    {
+        "country_name": "Eq. Guinea",
+        "oil_reserves": "1.1"
+    },
+    {
+        "country_name": "Peru",
+        "oil_reserves": "0.86"
+    },
+    {
+        "country_name": "Ghana",
+        "oil_reserves": "0.66"
+    },
+    {
+        "country_name": "Romania",
+        "oil_reserves": "0.6"
+    },
+    {
+        "country_name": "Turkmenistan",
+        "oil_reserves": "0.6"
+    },
+    {
+        "country_name": "Uzbekistan",
+        "oil_reserves": "0.59"
+    },
+    {
+        "country_name": "Pakistan",
+        "oil_reserves": "0.54"
+    },
+    {
+        "country_name": "Italy",
+        "oil_reserves": "0.5"
+    },
+    {
+        "country_name": "Denmark",
+        "oil_reserves": "0.44"
+    },
+    {
+        "country_name": "Tunisia",
+        "oil_reserves": "0.43"
+    },
+    {
+        "country_name": "Ukraine",
+        "oil_reserves": "0.4"
+    },
+    {
+        "country_name": "Turkey",
+        "oil_reserves": "0.37"
+    },
+    {
+        "country_name": "Thailand",
+        "oil_reserves": "0.25"
+    },
+    {
+        "country_name": "Bolivia",
+        "oil_reserves": "0.24"
+    },
+    {
+        "country_name": "Tr.&Tobago",
+        "oil_reserves": "0.24"
+    },
+    {
+        "country_name": "Belarus",
+        "oil_reserves": "0.2"
+    },
+    {
+        "country_name": "Cameroon",
+        "oil_reserves": "0.2"
+    },
+    {
+        "country_name": "Bahrain",
+        "oil_reserves": "0.19"
+    },
+    {
+        "country_name": "DR Congo",
+        "oil_reserves": "0.18"
+    },
+    {
+        "country_name": "Papua N.G.",
+        "oil_reserves": "0.16"
+    },
+    {
+        "country_name": "Albania",
+        "oil_reserves": "0.15"
+    },
+    {
+        "country_name": "Chile",
+        "oil_reserves": "0.15"
+    },
+    {
+        "country_name": "Niger",
+        "oil_reserves": "0.15"
+    },
+    {
+        "country_name": "Spain",
+        "oil_reserves": "0.15"
+    },
+    {
+        "country_name": "Burma",
+        "oil_reserves": "0.14"
+    },
+    {
+        "country_name": "Netherlands",
+        "oil_reserves": "0.14"
+    },
+    {
+        "country_name": "Philippines",
+        "oil_reserves": "0.14"
+    },
+    {
+        "country_name": "Cuba",
+        "oil_reserves": "0.12"
+    },
+    {
+        "country_name": "Germany",
+        "oil_reserves": "0.12"
+    },
+    {
+        "country_name": "Poland",
+        "oil_reserves": "0.11"
+    },
+    {
+        "country_name": "Ivory Coast",
+        "oil_reserves": "0.1"
+    },
+    {
+        "country_name": "Guatemala",
+        "oil_reserves": "0.09"
+    },
+    {
+        "country_name": "Suriname",
+        "oil_reserves": "0.09"
+    },
+    {
+        "country_name": "Serbia",
+        "oil_reserves": "0.08"
+    },
+    {
+        "country_name": "Croatia",
+        "oil_reserves": "0.07"
+    },
+    {
+        "country_name": "France",
+        "oil_reserves": "0.06"
+    },
+    {
+        "country_name": "Austria",
+        "oil_reserves": "0.04"
+    },
+    {
+        "country_name": "Georgia",
+        "oil_reserves": "0.04"
+    },
+    {
+        "country_name": "Japan",
+        "oil_reserves": "0.04"
+    },
+    {
+        "country_name": "New Zealand",
+        "oil_reserves": "0.04"
+    },
+    {
+        "country_name": "Bangladesh",
+        "oil_reserves": "0.03"
+    },
+    {
+        "country_name": "Bulgaria",
+        "oil_reserves": "0.02"
+    },
+    {
+        "country_name": "Czechia",
+        "oil_reserves": "0.02"
+    },
+    {
+        "country_name": "Mauritania",
+        "oil_reserves": "0.02"
+    },
+    {
+        "country_name": "South Africa",
+        "oil_reserves": "0.02"
+    },
+    {
+        "country_name": "Belize",
+        "oil_reserves": "0.01"
+    },
+    {
+        "country_name": "Benin",
+        "oil_reserves": "0.01"
+    },
+    {
+        "country_name": "Greece",
+        "oil_reserves": "0.01"
+    },
+    {
+        "country_name": "Hungary",
+        "oil_reserves": "0.01"
+    },
+    {
+        "country_name": "Israel",
+        "oil_reserves": "0.01"
+    },
+    {
+        "country_name": "Lithuania",
+        "oil_reserves": "0.01"
+    },
+    {
+        "country_name": "Slovakia",
+        "oil_reserves": "0.01"
+    },
+    {
+        "country_name": "Tajikistan",
+        "oil_reserves": "0.01"
+    },
+    {
+        "country_name": "Afghanistan",
+        "oil_reserves": "0"
+    },
+    {
+        "country_name": "Ant.& Barb.",
+        "oil_reserves": "0"
+    },
+    {
+        "country_name": "Armenia",
+        "oil_reserves": "0"
+    },
+    {
+        "country_name": "Aruba",
+        "oil_reserves": "0"
+    },
+    {
+        "country_name": "Bahamas",
+        "oil_reserves": "0"
+    },
+    {
+        "country_name": "Barbados",
+        "oil_reserves": "0"
+    },
+    {
+        "country_name": "Belgium",
+        "oil_reserves": "0"
+    },
+    {
+        "country_name": "Bermuda",
+        "oil_reserves": "0"
+    },
+    {
+        "country_name": "Bhutan",
+        "oil_reserves": "0"
+    },
+    {
+        "country_name": "Bosnia & Herz.",
+        "oil_reserves": "0"
+    },
+    {
+        "country_name": "Botswana",
+        "oil_reserves": "0"
+    },
+    {
+        "country_name": "Burkina Faso",
+        "oil_reserves": "0"
+    },
+    {
+        "country_name": "Burundi",
+        "oil_reserves": "0"
+    },
+    {
+        "country_name": "Cambodia",
+        "oil_reserves": "0"
+    },
+    {
+        "country_name": "Cape Verde",
+        "oil_reserves": "0"
+    },
+    {
+        "country_name": "C.A. Republic",
+        "oil_reserves": "0"
+    },
+    {
+        "country_name": "Comoros",
+        "oil_reserves": "0"
+    },
+    {
+        "country_name": "Cyprus",
+        "oil_reserves": "0"
+    },
+    {
+        "country_name": "Djibouti",
+        "oil_reserves": "0"
+    },
+    {
+        "country_name": "Dominica",
+        "oil_reserves": "0"
+    },
+    {
+        "country_name": "Domin. Rep.",
+        "oil_reserves": "0"
+    },
+    {
+        "country_name": "El Salvador",
+        "oil_reserves": "0"
+    },
+    {
+        "country_name": "Eritrea",
+        "oil_reserves": "0"
+    },
+    {
+        "country_name": "Estonia",
+        "oil_reserves": "0"
+    },
+    {
+        "country_name": "Ethiopia",
+        "oil_reserves": "0"
+    },
+    {
+        "country_name": "Faroe Isl.",
+        "oil_reserves": "0"
+    },
+    {
+        "country_name": "Fiji",
+        "oil_reserves": "0"
+    },
+    {
+        "country_name": "Finland",
+        "oil_reserves": "0"
+    },
+    {
+        "country_name": "Gambia",
+        "oil_reserves": "0"
+    },
+    {
+        "country_name": "Gibraltar",
+        "oil_reserves": "0"
+    },
+    {
+        "country_name": "Grenada",
+        "oil_reserves": "0"
+    },
+    {
+        "country_name": "Guinea",
+        "oil_reserves": "0"
+    },
+    {
+        "country_name": "G.-Bissau",
+        "oil_reserves": "0"
+    },
+    {
+        "country_name": "Guyana",
+        "oil_reserves": "0"
+    },
+    {
+        "country_name": "Haiti",
+        "oil_reserves": "0"
+    },
+    {
+        "country_name": "Honduras",
+        "oil_reserves": "0"
+    },
+    {
+        "country_name": "Hong Kong",
+        "oil_reserves": "0"
+    },
+    {
+        "country_name": "Iceland",
+        "oil_reserves": "0"
+    },
+    {
+        "country_name": "Ireland",
+        "oil_reserves": "0"
+    },
+    {
+        "country_name": "Jamaica",
+        "oil_reserves": "0"
+    },
+    {
+        "country_name": "Jordan",
+        "oil_reserves": "0"
+    },
+    {
+        "country_name": "Kenya",
+        "oil_reserves": "0"
+    },
+    {
+        "country_name": "Kiribati",
+        "oil_reserves": "0"
+    },
+    {
+        "country_name": "Laos",
+        "oil_reserves": "0"
+    },
+    {
+        "country_name": "Latvia",
+        "oil_reserves": "0"
+    },
+    {
+        "country_name": "Lebanon",
+        "oil_reserves": "0"
+    },
+    {
+        "country_name": "Lesotho",
+        "oil_reserves": "0"
+    },
+    {
+        "country_name": "Liberia",
+        "oil_reserves": "0"
+    },
+    {
+        "country_name": "Luxembourg",
+        "oil_reserves": "0"
+    },
+    {
+        "country_name": "Macao",
+        "oil_reserves": "0"
+    },
+    {
+        "country_name": "Madagascar",
+        "oil_reserves": "0"
+    },
+    {
+        "country_name": "Malawi",
+        "oil_reserves": "0"
+    },
+    {
+        "country_name": "Maldives",
+        "oil_reserves": "0"
+    },
+    {
+        "country_name": "Mali",
+        "oil_reserves": "0"
+    },
+    {
+        "country_name": "Malta",
+        "oil_reserves": "0"
+    },
+    {
+        "country_name": "Mauritius",
+        "oil_reserves": "0"
+    },
+    {
+        "country_name": "Moldova",
+        "oil_reserves": "0"
+    },
+    {
+        "country_name": "Montenegro",
+        "oil_reserves": "0"
+    },
+    {
+        "country_name": "Montserrat",
+        "oil_reserves": "0"
+    },
+    {
+        "country_name": "Morocco",
+        "oil_reserves": "0"
+    },
+    {
+        "country_name": "Mozambique",
+        "oil_reserves": "0"
+    },
+    {
+        "country_name": "Namibia",
+        "oil_reserves": "0"
+    },
+    {
+        "country_name": "Nepal",
+        "oil_reserves": "0"
+    },
+    {
+        "country_name": "N. Caledonia",
+        "oil_reserves": "0"
+    },
+    {
+        "country_name": "Nicaragua",
+        "oil_reserves": "0"
+    },
+    {
+        "country_name": "North Korea",
+        "oil_reserves": "0"
+    },
+    {
+        "country_name": "North Macedonia",
+        "oil_reserves": "0"
+    },
+    {
+        "country_name": "Panama",
+        "oil_reserves": "0"
+    },
+    {
+        "country_name": "Paraguay",
+        "oil_reserves": "0"
+    },
+    {
+        "country_name": "Portugal",
+        "oil_reserves": "0"
+    },
+    {
+        "country_name": "Puerto Rico",
+        "oil_reserves": "0"
+    },
+    {
+        "country_name": "Rwanda",
+        "oil_reserves": "0"
+    },
+    {
+        "country_name": "Saint Lucia",
+        "oil_reserves": "0"
+    },
+    {
+        "country_name": "St. Vincent & ...",
+        "oil_reserves": "0"
+    },
+    {
+        "country_name": "Samoa",
+        "oil_reserves": "0"
+    },
+    {
+        "country_name": "S.T.&Principe",
+        "oil_reserves": "0"
+    },
+    {
+        "country_name": "Senegal",
+        "oil_reserves": "0"
+    },
+    {
+        "country_name": "Seychelles",
+        "oil_reserves": "0"
+    },
+    {
+        "country_name": "Sierra Leone",
+        "oil_reserves": "0"
+    },
+    {
+        "country_name": "Singapore",
+        "oil_reserves": "0"
+    }
+]

@@ -1,0 +1,686 @@
+[
+    {
+        "country_name": "Somalia",
+        "country_fei": "10"
+    },
+    {
+        "country_name": "Yemen",
+        "country_fei": "10"
+    },
+    {
+        "country_name": "Zimbabwe",
+        "country_fei": "10"
+    },
+    {
+        "country_name": "Guinea",
+        "country_fei": "9.9"
+    },
+    {
+        "country_name": "Syria",
+        "country_fei": "9.9"
+    },
+    {
+        "country_name": "C.A. Republic",
+        "country_fei": "9.7"
+    },
+    {
+        "country_name": "Thailand",
+        "country_fei": "9.7"
+    },
+    {
+        "country_name": "G.-Bissau",
+        "country_fei": "9.6"
+    },
+    {
+        "country_name": "Haiti",
+        "country_fei": "9.6"
+    },
+    {
+        "country_name": "Iran",
+        "country_fei": "9.6"
+    },
+    {
+        "country_name": "Iraq",
+        "country_fei": "9.6"
+    },
+    {
+        "country_name": "Ivory Coast",
+        "country_fei": "9.6"
+    },
+    {
+        "country_name": "Lebanon",
+        "country_fei": "9.6"
+    },
+    {
+        "country_name": "Nigeria",
+        "country_fei": "9.6"
+    },
+    {
+        "country_name": "Chad",
+        "country_fei": "9.5"
+    },
+    {
+        "country_name": "DR Congo",
+        "country_fei": "9.5"
+    },
+    {
+        "country_name": "Libya",
+        "country_fei": "9.4"
+    },
+    {
+        "country_name": "Bangladesh",
+        "country_fei": "9.3"
+    },
+    {
+        "country_name": "Cameroon",
+        "country_fei": "9.3"
+    },
+    {
+        "country_name": "Niger",
+        "country_fei": "9.3"
+    },
+    {
+        "country_name": "Venezuela",
+        "country_fei": "9.3"
+    },
+    {
+        "country_name": "Ethiopia",
+        "country_fei": "9.2"
+    },
+    {
+        "country_name": "Egypt",
+        "country_fei": "9.1"
+    },
+    {
+        "country_name": "Georgia",
+        "country_fei": "9.1"
+    },
+    {
+        "country_name": "Sri Lanka",
+        "country_fei": "9.1"
+    },
+    {
+        "country_name": "Sudan",
+        "country_fei": "9.1"
+    },
+    {
+        "country_name": "Pakistan",
+        "country_fei": "9"
+    },
+    {
+        "country_name": "Palestine",
+        "country_fei": "8.9"
+    },
+    {
+        "country_name": "Uganda",
+        "country_fei": "8.9"
+    },
+    {
+        "country_name": "Belarus",
+        "country_fei": "8.8"
+    },
+    {
+        "country_name": "Mauritania",
+        "country_fei": "8.8"
+    },
+    {
+        "country_name": "Nepal",
+        "country_fei": "8.8"
+    },
+    {
+        "country_name": "North Korea",
+        "country_fei": "8.8"
+    },
+    {
+        "country_name": "Turkey",
+        "country_fei": "8.8"
+    },
+    {
+        "country_name": "Uzbekistan",
+        "country_fei": "8.8"
+    },
+    {
+        "country_name": "Bosnia & Herz.",
+        "country_fei": "8.7"
+    },
+    {
+        "country_name": "Afghanistan",
+        "country_fei": "8.6"
+    },
+    {
+        "country_name": "Kenya",
+        "country_fei": "8.6"
+    },
+    {
+        "country_name": "Liberia",
+        "country_fei": "8.6"
+    },
+    {
+        "country_name": "Bolivia",
+        "country_fei": "8.5"
+    },
+    {
+        "country_name": "Saudi Arabia",
+        "country_fei": "8.5"
+    },
+    {
+        "country_name": "Eritrea",
+        "country_fei": "8.4"
+    },
+    {
+        "country_name": "Malawi",
+        "country_fei": "8.4"
+    },
+    {
+        "country_name": "Russia",
+        "country_fei": "8.4"
+    },
+    {
+        "country_name": "Tajikistan",
+        "country_fei": "8.4"
+    },
+    {
+        "country_name": "Burma",
+        "country_fei": "8.3"
+    },
+    {
+        "country_name": "Cambodia",
+        "country_fei": "8.3"
+    },
+    {
+        "country_name": "Kyrgyzstan",
+        "country_fei": "8.3"
+    },
+    {
+        "country_name": "Laos",
+        "country_fei": "8.3"
+    },
+    {
+        "country_name": "Moldova",
+        "country_fei": "8.3"
+    },
+    {
+        "country_name": "Serbia",
+        "country_fei": "8.3"
+    },
+    {
+        "country_name": "Burundi",
+        "country_fei": "8.2"
+    },
+    {
+        "country_name": "Ecuador",
+        "country_fei": "8.2"
+    },
+    {
+        "country_name": "Eq. Guinea",
+        "country_fei": "8.2"
+    },
+    {
+        "country_name": "Solomon Isl.",
+        "country_fei": "8.2"
+    },
+    {
+        "country_name": "Maldives",
+        "country_fei": "8.1"
+    },
+    {
+        "country_name": "Comoros",
+        "country_fei": "8"
+    },
+    {
+        "country_name": "Gabon",
+        "country_fei": "8"
+    },
+    {
+        "country_name": "Philippines",
+        "country_fei": "8"
+    },
+    {
+        "country_name": "Rwanda",
+        "country_fei": "8"
+    },
+    {
+        "country_name": "Ukraine",
+        "country_fei": "8"
+    },
+    {
+        "country_name": "Azerbaijan",
+        "country_fei": "7.9"
+    },
+    {
+        "country_name": "Cyprus",
+        "country_fei": "7.9"
+    },
+    {
+        "country_name": "Fiji",
+        "country_fei": "7.9"
+    },
+    {
+        "country_name": "Israel",
+        "country_fei": "7.9"
+    },
+    {
+        "country_name": "Burkina Faso",
+        "country_fei": "7.8"
+    },
+    {
+        "country_name": "Macao",
+        "country_fei": "7.8"
+    },
+    {
+        "country_name": "Paraguay",
+        "country_fei": "7.8"
+    },
+    {
+        "country_name": "Sierra Leone",
+        "country_fei": "7.8"
+    },
+    {
+        "country_name": "Turkmenistan",
+        "country_fei": "7.8"
+    },
+    {
+        "country_name": "Gambia",
+        "country_fei": "7.7"
+    },
+    {
+        "country_name": "Bahrain",
+        "country_fei": "7.6"
+    },
+    {
+        "country_name": "Colombia",
+        "country_fei": "7.6"
+    },
+    {
+        "country_name": "Kazakhstan",
+        "country_fei": "7.6"
+    },
+    {
+        "country_name": "Togo",
+        "country_fei": "7.6"
+    },
+    {
+        "country_name": "Algeria",
+        "country_fei": "7.5"
+    },
+    {
+        "country_name": "Bhutan",
+        "country_fei": "7.5"
+    },
+    {
+        "country_name": "Kuwait",
+        "country_fei": "7.5"
+    },
+    {
+        "country_name": "Tunisia",
+        "country_fei": "7.5"
+    },
+    {
+        "country_name": "Brunei",
+        "country_fei": "7.4"
+    },
+    {
+        "country_name": "Peru",
+        "country_fei": "7.4"
+    },
+    {
+        "country_name": "Djibouti",
+        "country_fei": "7.3"
+    },
+    {
+        "country_name": "India",
+        "country_fei": "7.3"
+    },
+    {
+        "country_name": "Lesotho",
+        "country_fei": "7.3"
+    },
+    {
+        "country_name": "North Macedonia",
+        "country_fei": "7.3"
+    },
+    {
+        "country_name": "USA",
+        "country_fei": "7.3"
+    },
+    {
+        "country_name": "Angola",
+        "country_fei": "7.2"
+    },
+    {
+        "country_name": "China",
+        "country_fei": "7.2"
+    },
+    {
+        "country_name": "Guatemala",
+        "country_fei": "7.1"
+    },
+    {
+        "country_name": "Indonesia",
+        "country_fei": "7.1"
+    },
+    {
+        "country_name": "Nicaragua",
+        "country_fei": "7.1"
+    },
+    {
+        "country_name": "Papua N.G.",
+        "country_fei": "7.1"
+    },
+    {
+        "country_name": "Armenia",
+        "country_fei": "7"
+    },
+    {
+        "country_name": "Cuba",
+        "country_fei": "7"
+    },
+    {
+        "country_name": "Honduras",
+        "country_fei": "7"
+    },
+    {
+        "country_name": "Senegal",
+        "country_fei": "7"
+    },
+    {
+        "country_name": "Jordan",
+        "country_fei": "6.9"
+    },
+    {
+        "country_name": "Spain",
+        "country_fei": "6.9"
+    },
+    {
+        "country_name": "Vietnam",
+        "country_fei": "6.9"
+    },
+    {
+        "country_name": "Malaysia",
+        "country_fei": "6.8"
+    },
+    {
+        "country_name": "Swaziland",
+        "country_fei": "6.8"
+    },
+    {
+        "country_name": "Benin",
+        "country_fei": "6.7"
+    },
+    {
+        "country_name": "Morocco",
+        "country_fei": "6.6"
+    },
+    {
+        "country_name": "Mozambique",
+        "country_fei": "6.6"
+    },
+    {
+        "country_name": "Oman",
+        "country_fei": "6.6"
+    },
+    {
+        "country_name": "Brazil",
+        "country_fei": "6.5"
+    },
+    {
+        "country_name": "Montenegro",
+        "country_fei": "6.5"
+    },
+    {
+        "country_name": "South Africa",
+        "country_fei": "6.3"
+    },
+    {
+        "country_name": "Albania",
+        "country_fei": "6.2"
+    },
+    {
+        "country_name": "Domin. Rep.",
+        "country_fei": "6.2"
+    },
+    {
+        "country_name": "Mali",
+        "country_fei": "6.2"
+    },
+    {
+        "country_name": "Tanzania",
+        "country_fei": "6.2"
+    },
+    {
+        "country_name": "Seychelles",
+        "country_fei": "6"
+    },
+    {
+        "country_name": "Estonia",
+        "country_fei": "5.9"
+    },
+    {
+        "country_name": "Zambia",
+        "country_fei": "5.9"
+    },
+    {
+        "country_name": "Suriname",
+        "country_fei": "5.8"
+    },
+    {
+        "country_name": "UK",
+        "country_fei": "5.8"
+    },
+    {
+        "country_name": "Romania",
+        "country_fei": "5.7"
+    },
+    {
+        "country_name": "Grenada",
+        "country_fei": "5.6"
+    },
+    {
+        "country_name": "Tr.&Tobago",
+        "country_fei": "5.6"
+    },
+    {
+        "country_name": "Cape Verde",
+        "country_fei": "5.5"
+    },
+    {
+        "country_name": "Mongolia",
+        "country_fei": "5.5"
+    },
+    {
+        "country_name": "Ghana",
+        "country_fei": "5.4"
+    },
+    {
+        "country_name": "Mexico",
+        "country_fei": "5.4"
+    },
+    {
+        "country_name": "Bulgaria",
+        "country_fei": "5.3"
+    },
+    {
+        "country_name": "Czechia",
+        "country_fei": "5.3"
+    },
+    {
+        "country_name": "Hungary",
+        "country_fei": "5.3"
+    },
+    {
+        "country_name": "Guyana",
+        "country_fei": "5.1"
+    },
+    {
+        "country_name": "Samoa",
+        "country_fei": "5.1"
+    },
+    {
+        "country_name": "Qatar",
+        "country_fei": "5"
+    },
+    {
+        "country_name": "Italy",
+        "country_fei": "4.9"
+    },
+    {
+        "country_name": "El Salvador",
+        "country_fei": "4.8"
+    },
+    {
+        "country_name": "Slovakia",
+        "country_fei": "4.7"
+    },
+    {
+        "country_name": "Bahamas",
+        "country_fei": "4.5"
+    },
+    {
+        "country_name": "Belgium",
+        "country_fei": "4.4"
+    },
+    {
+        "country_name": "Croatia",
+        "country_fei": "4.4"
+    },
+    {
+        "country_name": "Belize",
+        "country_fei": "4.3"
+    },
+    {
+        "country_name": "Latvia",
+        "country_fei": "4.3"
+    },
+    {
+        "country_name": "Barbados",
+        "country_fei": "4.2"
+    },
+    {
+        "country_name": "Poland",
+        "country_fei": "4.2"
+    },
+    {
+        "country_name": "Greece",
+        "country_fei": "4.1"
+    },
+    {
+        "country_name": "Singapore",
+        "country_fei": "4"
+    },
+    {
+        "country_name": "South Korea",
+        "country_fei": "3.9"
+    },
+    {
+        "country_name": "Costa Rica",
+        "country_fei": "3.8"
+    },
+    {
+        "country_name": "Jamaica",
+        "country_fei": "3.7"
+    },
+    {
+        "country_name": "UA Emirates",
+        "country_fei": "3.6"
+    },
+    {
+        "country_name": "Namibia",
+        "country_fei": "3.5"
+    },
+    {
+        "country_name": "Luxembourg",
+        "country_fei": "3.4"
+    },
+    {
+        "country_name": "Netherlands",
+        "country_fei": "3.4"
+    },
+    {
+        "country_name": "Botswana",
+        "country_fei": "3.3"
+    },
+    {
+        "country_name": "Austria",
+        "country_fei": "3.2"
+    },
+    {
+        "country_name": "Mauritius",
+        "country_fei": "3.2"
+    },
+    {
+        "country_name": "Lithuania",
+        "country_fei": "3"
+    },
+    {
+        "country_name": "Argentina",
+        "country_fei": "2.8"
+    },
+    {
+        "country_name": "Uruguay",
+        "country_fei": "2.7"
+    },
+    {
+        "country_name": "Japan",
+        "country_fei": "2.6"
+    },
+    {
+        "country_name": "Canada",
+        "country_fei": "2.5"
+    },
+    {
+        "country_name": "Portugal",
+        "country_fei": "2.5"
+    },
+    {
+        "country_name": "Germany",
+        "country_fei": "2.3"
+    },
+    {
+        "country_name": "Chile",
+        "country_fei": "2.2"
+    },
+    {
+        "country_name": "Panama",
+        "country_fei": "2.2"
+    },
+    {
+        "country_name": "Malta",
+        "country_fei": "2"
+    },
+    {
+        "country_name": "Slovenia",
+        "country_fei": "2"
+    },
+    {
+        "country_name": "France",
+        "country_fei": "1.9"
+    },
+    {
+        "country_name": "Iceland",
+        "country_fei": "1.8"
+    },
+    {
+        "country_name": "Sweden",
+        "country_fei": "1.8"
+    },
+    {
+        "country_name": "Australia",
+        "country_fei": "1.7"
+    },
+    {
+        "country_name": "Ireland",
+        "country_fei": "1.5"
+    },
+    {
+        "country_name": "Denmark",
+        "country_fei": "1.4"
+    },
+    {
+        "country_name": "Finland",
+        "country_fei": "1.4"
+    },
+    {
+        "country_name": "New Zealand",
+        "country_fei": "1.4"
+    }
+]

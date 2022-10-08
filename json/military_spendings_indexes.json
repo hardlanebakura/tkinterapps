@@ -1,0 +1,558 @@
+[
+    {
+        "country_name": "USA",
+        "country_military_spending": "778.23"
+    },
+    {
+        "country_name": "China",
+        "country_military_spending": "252.3"
+    },
+    {
+        "country_name": "Euro area",
+        "country_military_spending": "194.71"
+    },
+    {
+        "country_name": "India",
+        "country_military_spending": "72.89"
+    },
+    {
+        "country_name": "Russia",
+        "country_military_spending": "61.71"
+    },
+    {
+        "country_name": "UK",
+        "country_military_spending": "59.24"
+    },
+    {
+        "country_name": "Saudi Arabia",
+        "country_military_spending": "57.52"
+    },
+    {
+        "country_name": "Germany",
+        "country_military_spending": "52.76"
+    },
+    {
+        "country_name": "France",
+        "country_military_spending": "52.75"
+    },
+    {
+        "country_name": "Japan",
+        "country_military_spending": "49.15"
+    },
+    {
+        "country_name": "South Korea",
+        "country_military_spending": "45.74"
+    },
+    {
+        "country_name": "Italy",
+        "country_military_spending": "28.92"
+    },
+    {
+        "country_name": "Australia",
+        "country_military_spending": "27.54"
+    },
+    {
+        "country_name": "Canada",
+        "country_military_spending": "22.75"
+    },
+    {
+        "country_name": "Israel",
+        "country_military_spending": "21.7"
+    },
+    {
+        "country_name": "Brazil",
+        "country_military_spending": "19.74"
+    },
+    {
+        "country_name": "Turkey",
+        "country_military_spending": "17.72"
+    },
+    {
+        "country_name": "Spain",
+        "country_military_spending": "17.43"
+    },
+    {
+        "country_name": "Iran",
+        "country_military_spending": "15.83"
+    },
+    {
+        "country_name": "Poland",
+        "country_military_spending": "13.03"
+    },
+    {
+        "country_name": "Netherlands",
+        "country_military_spending": "12.58"
+    },
+    {
+        "country_name": "Singapore",
+        "country_military_spending": "10.86"
+    },
+    {
+        "country_name": "Pakistan",
+        "country_military_spending": "10.38"
+    },
+    {
+        "country_name": "Algeria",
+        "country_military_spending": "9.71"
+    },
+    {
+        "country_name": "Indonesia",
+        "country_military_spending": "9.4"
+    },
+    {
+        "country_name": "Colombia",
+        "country_military_spending": "9.22"
+    },
+    {
+        "country_name": "Thailand",
+        "country_military_spending": "7.34"
+    },
+    {
+        "country_name": "Norway",
+        "country_military_spending": "7.11"
+    },
+    {
+        "country_name": "Iraq",
+        "country_military_spending": "7.02"
+    },
+    {
+        "country_name": "Kuwait",
+        "country_military_spending": "6.94"
+    },
+    {
+        "country_name": "Oman",
+        "country_military_spending": "6.73"
+    },
+    {
+        "country_name": "Sweden",
+        "country_military_spending": "6.45"
+    },
+    {
+        "country_name": "Mexico",
+        "country_military_spending": "6.12"
+    },
+    {
+        "country_name": "Ukraine",
+        "country_military_spending": "5.92"
+    },
+    {
+        "country_name": "Romania",
+        "country_military_spending": "5.73"
+    },
+    {
+        "country_name": "Switzerland",
+        "country_military_spending": "5.7"
+    },
+    {
+        "country_name": "Belgium",
+        "country_military_spending": "5.46"
+    },
+    {
+        "country_name": "Greece",
+        "country_military_spending": "5.3"
+    },
+    {
+        "country_name": "Denmark",
+        "country_military_spending": "4.95"
+    },
+    {
+        "country_name": "Morocco",
+        "country_military_spending": "4.83"
+    },
+    {
+        "country_name": "Portugal",
+        "country_military_spending": "4.64"
+    },
+    {
+        "country_name": "Chile",
+        "country_military_spending": "4.6"
+    },
+    {
+        "country_name": "Bangladesh",
+        "country_military_spending": "4.56"
+    },
+    {
+        "country_name": "Egypt",
+        "country_military_spending": "4.51"
+    },
+    {
+        "country_name": "Finland",
+        "country_military_spending": "4.09"
+    },
+    {
+        "country_name": "Malaysia",
+        "country_military_spending": "3.81"
+    },
+    {
+        "country_name": "Philippines",
+        "country_military_spending": "3.73"
+    },
+    {
+        "country_name": "Austria",
+        "country_military_spending": "3.6"
+    },
+    {
+        "country_name": "Czechia",
+        "country_military_spending": "3.25"
+    },
+    {
+        "country_name": "South Africa",
+        "country_military_spending": "3.15"
+    },
+    {
+        "country_name": "New Zealand",
+        "country_military_spending": "3.01"
+    },
+    {
+        "country_name": "Argentina",
+        "country_military_spending": "2.91"
+    },
+    {
+        "country_name": "Peru",
+        "country_military_spending": "2.63"
+    },
+    {
+        "country_name": "Nigeria",
+        "country_military_spending": "2.57"
+    },
+    {
+        "country_name": "Burma",
+        "country_military_spending": "2.45"
+    },
+    {
+        "country_name": "Hungary",
+        "country_military_spending": "2.41"
+    },
+    {
+        "country_name": "Azerbaijan",
+        "country_military_spending": "2.24"
+    },
+    {
+        "country_name": "Ecuador",
+        "country_military_spending": "2.24"
+    },
+    {
+        "country_name": "Jordan",
+        "country_military_spending": "2.08"
+    },
+    {
+        "country_name": "Lebanon",
+        "country_military_spending": "1.92"
+    },
+    {
+        "country_name": "Slovakia",
+        "country_military_spending": "1.84"
+    },
+    {
+        "country_name": "Kazakhstan",
+        "country_military_spending": "1.73"
+    },
+    {
+        "country_name": "Sri Lanka",
+        "country_military_spending": "1.57"
+    },
+    {
+        "country_name": "Bahrain",
+        "country_military_spending": "1.4"
+    },
+    {
+        "country_name": "Bulgaria",
+        "country_military_spending": "1.25"
+    },
+    {
+        "country_name": "Lithuania",
+        "country_military_spending": "1.17"
+    },
+    {
+        "country_name": "Tunisia",
+        "country_military_spending": "1.16"
+    },
+    {
+        "country_name": "Uruguay",
+        "country_military_spending": "1.16"
+    },
+    {
+        "country_name": "Ireland",
+        "country_military_spending": "1.14"
+    },
+    {
+        "country_name": "Serbia",
+        "country_military_spending": "1.12"
+    },
+    {
+        "country_name": "Kenya",
+        "country_military_spending": "1.11"
+    },
+    {
+        "country_name": "Croatia",
+        "country_military_spending": "1.03"
+    },
+    {
+        "country_name": "Angola",
+        "country_military_spending": "0.99"
+    },
+    {
+        "country_name": "Uganda",
+        "country_military_spending": "0.98"
+    },
+    {
+        "country_name": "Sudan",
+        "country_military_spending": "0.93"
+    },
+    {
+        "country_name": "Belarus",
+        "country_military_spending": "0.84"
+    },
+    {
+        "country_name": "Latvia",
+        "country_military_spending": "0.76"
+    },
+    {
+        "country_name": "Estonia",
+        "country_military_spending": "0.7"
+    },
+    {
+        "country_name": "Tanzania",
+        "country_military_spending": "0.66"
+    },
+    {
+        "country_name": "Cambodia",
+        "country_military_spending": "0.65"
+    },
+    {
+        "country_name": "Armenia",
+        "country_military_spending": "0.63"
+    },
+    {
+        "country_name": "Bolivia",
+        "country_military_spending": "0.61"
+    },
+    {
+        "country_name": "Ivory Coast",
+        "country_military_spending": "0.61"
+    },
+    {
+        "country_name": "Domin. Rep.",
+        "country_military_spending": "0.6"
+    },
+    {
+        "country_name": "Mali",
+        "country_military_spending": "0.59"
+    },
+    {
+        "country_name": "Slovenia",
+        "country_military_spending": "0.57"
+    },
+    {
+        "country_name": "Botswana",
+        "country_military_spending": "0.55"
+    },
+    {
+        "country_name": "Luxembourg",
+        "country_military_spending": "0.49"
+    },
+    {
+        "country_name": "Ethiopia",
+        "country_military_spending": "0.46"
+    },
+    {
+        "country_name": "Brunei",
+        "country_military_spending": "0.44"
+    },
+    {
+        "country_name": "Cyprus",
+        "country_military_spending": "0.42"
+    },
+    {
+        "country_name": "Nepal",
+        "country_military_spending": "0.42"
+    },
+    {
+        "country_name": "Honduras",
+        "country_military_spending": "0.4"
+    },
+    {
+        "country_name": "Cameroon",
+        "country_military_spending": "0.39"
+    },
+    {
+        "country_name": "Senegal",
+        "country_military_spending": "0.39"
+    },
+    {
+        "country_name": "Burkina Faso",
+        "country_military_spending": "0.38"
+    },
+    {
+        "country_name": "El Salvador",
+        "country_military_spending": "0.37"
+    },
+    {
+        "country_name": "Namibia",
+        "country_military_spending": "0.37"
+    },
+    {
+        "country_name": "DR Congo",
+        "country_military_spending": "0.36"
+    },
+    {
+        "country_name": "Paraguay",
+        "country_military_spending": "0.36"
+    },
+    {
+        "country_name": "Guatemala",
+        "country_military_spending": "0.34"
+    },
+    {
+        "country_name": "Chad",
+        "country_military_spending": "0.32"
+    },
+    {
+        "country_name": "R. of Congo",
+        "country_military_spending": "0.3"
+    },
+    {
+        "country_name": "Georgia",
+        "country_military_spending": "0.29"
+    },
+    {
+        "country_name": "Afghanistan",
+        "country_military_spending": "0.28"
+    },
+    {
+        "country_name": "Gabon",
+        "country_military_spending": "0.27"
+    },
+    {
+        "country_name": "Ghana",
+        "country_military_spending": "0.24"
+    },
+    {
+        "country_name": "Jamaica",
+        "country_military_spending": "0.24"
+    },
+    {
+        "country_name": "Niger",
+        "country_military_spending": "0.24"
+    },
+    {
+        "country_name": "Albania",
+        "country_military_spending": "0.22"
+    },
+    {
+        "country_name": "Guinea",
+        "country_military_spending": "0.21"
+    },
+    {
+        "country_name": "Zambia",
+        "country_military_spending": "0.21"
+    },
+    {
+        "country_name": "Mauritania",
+        "country_military_spending": "0.2"
+    },
+    {
+        "country_name": "Bosnia & Herz.",
+        "country_military_spending": "0.17"
+    },
+    {
+        "country_name": "North Macedonia",
+        "country_military_spending": "0.16"
+    },
+    {
+        "country_name": "Tr.&Tobago",
+        "country_military_spending": "0.16"
+    },
+    {
+        "country_name": "Mozambique",
+        "country_military_spending": "0.15"
+    },
+    {
+        "country_name": "Rwanda",
+        "country_military_spending": "0.14"
+    },
+    {
+        "country_name": "Kyrgyzstan",
+        "country_military_spending": "0.13"
+    },
+    {
+        "country_name": "Togo",
+        "country_military_spending": "0.12"
+    },
+    {
+        "country_name": "Mongolia",
+        "country_military_spending": "0.11"
+    },
+    {
+        "country_name": "Montenegro",
+        "country_military_spending": "0.1"
+    },
+    {
+        "country_name": "Somalia",
+        "country_military_spending": "0.1"
+    },
+    {
+        "country_name": "Madagascar",
+        "country_military_spending": "0.09"
+    },
+    {
+        "country_name": "Malawi",
+        "country_military_spending": "0.09"
+    },
+    {
+        "country_name": "Papua N.G.",
+        "country_military_spending": "0.09"
+    },
+    {
+        "country_name": "Malta",
+        "country_military_spending": "0.08"
+    },
+    {
+        "country_name": "Nicaragua",
+        "country_military_spending": "0.08"
+    },
+    {
+        "country_name": "Swaziland",
+        "country_military_spending": "0.08"
+    },
+    {
+        "country_name": "Tajikistan",
+        "country_military_spending": "0.08"
+    },
+    {
+        "country_name": "Benin",
+        "country_military_spending": "0.07"
+    },
+    {
+        "country_name": "Burundi",
+        "country_military_spending": "0.07"
+    },
+    {
+        "country_name": "Fiji",
+        "country_military_spending": "0.07"
+    },
+    {
+        "country_name": "Guyana",
+        "country_military_spending": "0.07"
+    },
+    {
+        "country_name": "C.A. Republic",
+        "country_military_spending": "0.04"
+    },
+    {
+        "country_name": "Lesotho",
+        "country_military_spending": "0.04"
+    },
+    {
+        "country_name": "Moldova",
+        "country_military_spending": "0.04"
+    },
+    {
+        "country_name": "Belize",
+        "country_military_spending": "0.02"
+    },
+    {
+        "country_name": "G.-Bissau",
+        "country_military_spending": "0.02"
+    }
+]

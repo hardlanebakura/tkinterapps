@@ -1,0 +1,686 @@
+[
+    {
+        "country_name": "Suriname",
+        "forest_areas_perc": "97.4"
+    },
+    {
+        "country_name": "Guyana",
+        "forest_areas_perc": "93.6"
+    },
+    {
+        "country_name": "Micronesia",
+        "forest_areas_perc": "92"
+    },
+    {
+        "country_name": "Gabon",
+        "forest_areas_perc": "91.3"
+    },
+    {
+        "country_name": "Solomon Isl.",
+        "forest_areas_perc": "90.1"
+    },
+    {
+        "country_name": "Palau",
+        "forest_areas_perc": "90"
+    },
+    {
+        "country_name": "Eq. Guinea",
+        "forest_areas_perc": "87.3"
+    },
+    {
+        "country_name": "Papua N.G.",
+        "forest_areas_perc": "79.2"
+    },
+    {
+        "country_name": "Liberia",
+        "forest_areas_perc": "79.1"
+    },
+    {
+        "country_name": "Finland",
+        "forest_areas_perc": "73.7"
+    },
+    {
+        "country_name": "Seychelles",
+        "forest_areas_perc": "73.3"
+    },
+    {
+        "country_name": "St. Vincent & ...",
+        "forest_areas_perc": "73.2"
+    },
+    {
+        "country_name": "Brunei",
+        "forest_areas_perc": "72.1"
+    },
+    {
+        "country_name": "Laos",
+        "forest_areas_perc": "71.9"
+    },
+    {
+        "country_name": "Bhutan",
+        "forest_areas_perc": "71.4"
+    },
+    {
+        "country_name": "G.-Bissau",
+        "forest_areas_perc": "70.4"
+    },
+    {
+        "country_name": "Sweden",
+        "forest_areas_perc": "68.7"
+    },
+    {
+        "country_name": "Japan",
+        "forest_areas_perc": "68.4"
+    },
+    {
+        "country_name": "South Korea",
+        "forest_areas_perc": "64.5"
+    },
+    {
+        "country_name": "R. of Congo",
+        "forest_areas_perc": "64.3"
+    },
+    {
+        "country_name": "Dominica",
+        "forest_areas_perc": "63.8"
+    },
+    {
+        "country_name": "Fiji",
+        "forest_areas_perc": "62.4"
+    },
+    {
+        "country_name": "Montenegro",
+        "forest_areas_perc": "61.5"
+    },
+    {
+        "country_name": "Slovenia",
+        "forest_areas_perc": "61.5"
+    },
+    {
+        "country_name": "Zambia",
+        "forest_areas_perc": "60.3"
+    },
+    {
+        "country_name": "Brazil",
+        "forest_areas_perc": "59.4"
+    },
+    {
+        "country_name": "Costa Rica",
+        "forest_areas_perc": "59.4"
+    },
+    {
+        "country_name": "Malaysia",
+        "forest_areas_perc": "58.2"
+    },
+    {
+        "country_name": "Samoa",
+        "forest_areas_perc": "57.1"
+    },
+    {
+        "country_name": "Honduras",
+        "forest_areas_perc": "56.8"
+    },
+    {
+        "country_name": "Panama",
+        "forest_areas_perc": "56.8"
+    },
+    {
+        "country_name": "Peru",
+        "forest_areas_perc": "56.5"
+    },
+    {
+        "country_name": "Estonia",
+        "forest_areas_perc": "56.1"
+    },
+    {
+        "country_name": "Belize",
+        "forest_areas_perc": "56"
+    },
+    {
+        "country_name": "Puerto Rico",
+        "forest_areas_perc": "56"
+    },
+    {
+        "country_name": "DR Congo",
+        "forest_areas_perc": "55.6"
+    },
+    {
+        "country_name": "Jamaica",
+        "forest_areas_perc": "55.1"
+    },
+    {
+        "country_name": "Latvia",
+        "forest_areas_perc": "54.9"
+    },
+    {
+        "country_name": "S.T.&Principe",
+        "forest_areas_perc": "54.1"
+    },
+    {
+        "country_name": "Angola",
+        "forest_areas_perc": "53.4"
+    },
+    {
+        "country_name": "Colombia",
+        "forest_areas_perc": "53.3"
+    },
+    {
+        "country_name": "Venezuela",
+        "forest_areas_perc": "52.4"
+    },
+    {
+        "country_name": "Grenada",
+        "forest_areas_perc": "52.1"
+    },
+    {
+        "country_name": "Tanzania",
+        "forest_areas_perc": "51.6"
+    },
+    {
+        "country_name": "Bahamas",
+        "forest_areas_perc": "50.9"
+    },
+    {
+        "country_name": "Ecuador",
+        "forest_areas_perc": "50.3"
+    },
+    {
+        "country_name": "North Korea",
+        "forest_areas_perc": "50.1"
+    },
+    {
+        "country_name": "Russia",
+        "forest_areas_perc": "49.8"
+    },
+    {
+        "country_name": "Indonesia",
+        "forest_areas_perc": "49.1"
+    },
+    {
+        "country_name": "Austria",
+        "forest_areas_perc": "47.3"
+    },
+    {
+        "country_name": "Vietnam",
+        "forest_areas_perc": "47.2"
+    },
+    {
+        "country_name": "Bolivia",
+        "forest_areas_perc": "46.9"
+    },
+    {
+        "country_name": "Mozambique",
+        "forest_areas_perc": "46.7"
+    },
+    {
+        "country_name": "N. Caledonia",
+        "forest_areas_perc": "45.8"
+    },
+    {
+        "country_name": "Cambodia",
+        "forest_areas_perc": "45.7"
+    },
+    {
+        "country_name": "Zimbabwe",
+        "forest_areas_perc": "45.1"
+    },
+    {
+        "country_name": "Tr.&Tobago",
+        "forest_areas_perc": "44.5"
+    },
+    {
+        "country_name": "Domin. Rep.",
+        "forest_areas_perc": "44.4"
+    },
+    {
+        "country_name": "Burma",
+        "forest_areas_perc": "43.7"
+    },
+    {
+        "country_name": "Belarus",
+        "forest_areas_perc": "43.2"
+    },
+    {
+        "country_name": "Cameroon",
+        "forest_areas_perc": "43"
+    },
+    {
+        "country_name": "Bosnia & Herz.",
+        "forest_areas_perc": "42.7"
+    },
+    {
+        "country_name": "Liechtenstein",
+        "forest_areas_perc": "41.9"
+    },
+    {
+        "country_name": "Senegal",
+        "forest_areas_perc": "41.9"
+    },
+    {
+        "country_name": "Nepal",
+        "forest_areas_perc": "41.6"
+    },
+    {
+        "country_name": "Georgia",
+        "forest_areas_perc": "40.6"
+    },
+    {
+        "country_name": "Paraguay",
+        "forest_areas_perc": "40.5"
+    },
+    {
+        "country_name": "Slovakia",
+        "forest_areas_perc": "40.1"
+    },
+    {
+        "country_name": "North Macedonia",
+        "forest_areas_perc": "39.7"
+    },
+    {
+        "country_name": "Thailand",
+        "forest_areas_perc": "38.9"
+    },
+    {
+        "country_name": "Canada",
+        "forest_areas_perc": "38.7"
+    },
+    {
+        "country_name": "Euro area",
+        "forest_areas_perc": "38.6"
+    },
+    {
+        "country_name": "New Zealand",
+        "forest_areas_perc": "37.6"
+    },
+    {
+        "country_name": "Spain",
+        "forest_areas_perc": "37.2"
+    },
+    {
+        "country_name": "Luxembourg",
+        "forest_areas_perc": "36.5"
+    },
+    {
+        "country_name": "Vanuatu",
+        "forest_areas_perc": "36.3"
+    },
+    {
+        "country_name": "Portugal",
+        "forest_areas_perc": "36.2"
+    },
+    {
+        "country_name": "Bulgaria",
+        "forest_areas_perc": "35.9"
+    },
+    {
+        "country_name": "C.A. Republic",
+        "forest_areas_perc": "35.8"
+    },
+    {
+        "country_name": "Ghana",
+        "forest_areas_perc": "35.1"
+    },
+    {
+        "country_name": "Lithuania",
+        "forest_areas_perc": "35.1"
+    },
+    {
+        "country_name": "Sierra Leone",
+        "forest_areas_perc": "35.1"
+    },
+    {
+        "country_name": "Czechia",
+        "forest_areas_perc": "34.7"
+    },
+    {
+        "country_name": "Croatia",
+        "forest_areas_perc": "34.3"
+    },
+    {
+        "country_name": "Sri Lanka",
+        "forest_areas_perc": "34.2"
+    },
+    {
+        "country_name": "Andorra",
+        "forest_areas_perc": "34"
+    },
+    {
+        "country_name": "Saint Lucia",
+        "forest_areas_perc": "34"
+    },
+    {
+        "country_name": "USA",
+        "forest_areas_perc": "33.9"
+    },
+    {
+        "country_name": "Mexico",
+        "forest_areas_perc": "33.8"
+    },
+    {
+        "country_name": "Norway",
+        "forest_areas_perc": "33.4"
+    },
+    {
+        "country_name": "Tuvalu",
+        "forest_areas_perc": "33.3"
+    },
+    {
+        "country_name": "Guatemala",
+        "forest_areas_perc": "32.9"
+    },
+    {
+        "country_name": "Germany",
+        "forest_areas_perc": "32.7"
+    },
+    {
+        "country_name": "Italy",
+        "forest_areas_perc": "32.1"
+    },
+    {
+        "country_name": "Switzerland",
+        "forest_areas_perc": "32.1"
+    },
+    {
+        "country_name": "France",
+        "forest_areas_perc": "31.5"
+    },
+    {
+        "country_name": "Serbia",
+        "forest_areas_perc": "31.1"
+    },
+    {
+        "country_name": "Poland",
+        "forest_areas_perc": "31"
+    },
+    {
+        "country_name": "Greece",
+        "forest_areas_perc": "30.3"
+    },
+    {
+        "country_name": "Romania",
+        "forest_areas_perc": "30.1"
+    },
+    {
+        "country_name": "Swaziland",
+        "forest_areas_perc": "28.9"
+    },
+    {
+        "country_name": "Turkey",
+        "forest_areas_perc": "28.9"
+    },
+    {
+        "country_name": "Albania",
+        "forest_areas_perc": "28.8"
+    },
+    {
+        "country_name": "Nicaragua",
+        "forest_areas_perc": "28.3"
+    },
+    {
+        "country_name": "El Salvador",
+        "forest_areas_perc": "28.2"
+    },
+    {
+        "country_name": "Benin",
+        "forest_areas_perc": "27.8"
+    },
+    {
+        "country_name": "Botswana",
+        "forest_areas_perc": "26.9"
+    },
+    {
+        "country_name": "Guinea",
+        "forest_areas_perc": "25.2"
+    },
+    {
+        "country_name": "Chile",
+        "forest_areas_perc": "24.5"
+    },
+    {
+        "country_name": "India",
+        "forest_areas_perc": "24.3"
+    },
+    {
+        "country_name": "Philippines",
+        "forest_areas_perc": "24.1"
+    },
+    {
+        "country_name": "Gambia",
+        "forest_areas_perc": "24"
+    },
+    {
+        "country_name": "Malawi",
+        "forest_areas_perc": "23.8"
+    },
+    {
+        "country_name": "Nigeria",
+        "forest_areas_perc": "23.7"
+    },
+    {
+        "country_name": "China",
+        "forest_areas_perc": "23.3"
+    },
+    {
+        "country_name": "Belgium",
+        "forest_areas_perc": "22.8"
+    },
+    {
+        "country_name": "Burkina Faso",
+        "forest_areas_perc": "22.7"
+    },
+    {
+        "country_name": "Hungary",
+        "forest_areas_perc": "22.5"
+    },
+    {
+        "country_name": "Togo",
+        "forest_areas_perc": "22.2"
+    },
+    {
+        "country_name": "Singapore",
+        "forest_areas_perc": "22"
+    },
+    {
+        "country_name": "Madagascar",
+        "forest_areas_perc": "21.4"
+    },
+    {
+        "country_name": "Mauritius",
+        "forest_areas_perc": "19.1"
+    },
+    {
+        "country_name": "Cyprus",
+        "forest_areas_perc": "18.7"
+    },
+    {
+        "country_name": "Ant.& Barb.",
+        "forest_areas_perc": "18.5"
+    },
+    {
+        "country_name": "Bermuda",
+        "forest_areas_perc": "18.5"
+    },
+    {
+        "country_name": "Comoros",
+        "forest_areas_perc": "17.7"
+    },
+    {
+        "country_name": "Australia",
+        "forest_areas_perc": "17.4"
+    },
+    {
+        "country_name": "San Marino",
+        "forest_areas_perc": "16.7"
+    },
+    {
+        "country_name": "Ukraine",
+        "forest_areas_perc": "16.7"
+    },
+    {
+        "country_name": "Denmark",
+        "forest_areas_perc": "15.7"
+    },
+    {
+        "country_name": "Ethiopia",
+        "forest_areas_perc": "15.1"
+    },
+    {
+        "country_name": "Barbados",
+        "forest_areas_perc": "14.7"
+    },
+    {
+        "country_name": "Bangladesh",
+        "forest_areas_perc": "14.5"
+    },
+    {
+        "country_name": "South Africa",
+        "forest_areas_perc": "14.1"
+    },
+    {
+        "country_name": "Lebanon",
+        "forest_areas_perc": "14"
+    },
+    {
+        "country_name": "Azerbaijan",
+        "forest_areas_perc": "13.7"
+    },
+    {
+        "country_name": "UK",
+        "forest_areas_perc": "13.2"
+    },
+    {
+        "country_name": "Morocco",
+        "forest_areas_perc": "12.9"
+    },
+    {
+        "country_name": "Haiti",
+        "forest_areas_perc": "12.6"
+    },
+    {
+        "country_name": "Tonga",
+        "forest_areas_perc": "12.4"
+    },
+    {
+        "country_name": "Moldova",
+        "forest_areas_perc": "11.8"
+    },
+    {
+        "country_name": "Uganda",
+        "forest_areas_perc": "11.7"
+    },
+    {
+        "country_name": "Uruguay",
+        "forest_areas_perc": "11.6"
+    },
+    {
+        "country_name": "Armenia",
+        "forest_areas_perc": "11.5"
+    },
+    {
+        "country_name": "Ireland",
+        "forest_areas_perc": "11.4"
+    },
+    {
+        "country_name": "Cape Verde",
+        "forest_areas_perc": "11.3"
+    },
+    {
+        "country_name": "Rwanda",
+        "forest_areas_perc": "11.2"
+    },
+    {
+        "country_name": "Netherlands",
+        "forest_areas_perc": "11"
+    },
+    {
+        "country_name": "Burundi",
+        "forest_areas_perc": "10.9"
+    },
+    {
+        "country_name": "Mali",
+        "forest_areas_perc": "10.9"
+    },
+    {
+        "country_name": "Argentina",
+        "forest_areas_perc": "10.4"
+    },
+    {
+        "country_name": "Eritrea",
+        "forest_areas_perc": "10.4"
+    },
+    {
+        "country_name": "Sudan",
+        "forest_areas_perc": "9.9"
+    },
+    {
+        "country_name": "Somalia",
+        "forest_areas_perc": "9.5"
+    },
+    {
+        "country_name": "Mongolia",
+        "forest_areas_perc": "9.1"
+    },
+    {
+        "country_name": "Ivory Coast",
+        "forest_areas_perc": "8.9"
+    },
+    {
+        "country_name": "Turkmenistan",
+        "forest_areas_perc": "8.8"
+    },
+    {
+        "country_name": "Uzbekistan",
+        "forest_areas_perc": "8.4"
+    },
+    {
+        "country_name": "Namibia",
+        "forest_areas_perc": "8.1"
+    },
+    {
+        "country_name": "Kyrgyzstan",
+        "forest_areas_perc": "6.9"
+    },
+    {
+        "country_name": "Iran",
+        "forest_areas_perc": "6.6"
+    },
+    {
+        "country_name": "Israel",
+        "forest_areas_perc": "6.5"
+    },
+    {
+        "country_name": "Kenya",
+        "forest_areas_perc": "6.3"
+    },
+    {
+        "country_name": "Pakistan",
+        "forest_areas_perc": "4.8"
+    },
+    {
+        "country_name": "Tunisia",
+        "forest_areas_perc": "4.5"
+    },
+    {
+        "country_name": "UA Emirates",
+        "forest_areas_perc": "4.5"
+    },
+    {
+        "country_name": "Chad",
+        "forest_areas_perc": "3.4"
+    },
+    {
+        "country_name": "Tajikistan",
+        "forest_areas_perc": "3.1"
+    },
+    {
+        "country_name": "Syria",
+        "forest_areas_perc": "2.8"
+    },
+    {
+        "country_name": "Maldives",
+        "forest_areas_perc": "2.7"
+    },
+    {
+        "country_name": "Aruba",
+        "forest_areas_perc": "2.3"
+    }
+]

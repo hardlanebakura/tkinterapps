@@ -1,0 +1,206 @@
+[
+    {
+        "state": "Alabama",
+        "depression_rate": 45
+    },
+    {
+        "state": "Alaska",
+        "depression_rate": 22
+    },
+    {
+        "state": "Arizona",
+        "depression_rate": 35
+    },
+    {
+        "state": "Arkansas",
+        "depression_rate": 34
+    },
+    {
+        "state": "California",
+        "depression_rate": 26
+    },
+    {
+        "state": "Colorado",
+        "depression_rate": 16
+    },
+    {
+        "state": "Connecticut",
+        "depression_rate": 8
+    },
+    {
+        "state": "Delaware",
+        "depression_rate": 13
+    },
+    {
+        "state": "Florida",
+        "depression_rate": 39
+    },
+    {
+        "state": "Georgia",
+        "depression_rate": 49
+    },
+    {
+        "state": "Hawaii",
+        "depression_rate": 18
+    },
+    {
+        "state": "Idaho",
+        "depression_rate": 31
+    },
+    {
+        "state": "Illinois",
+        "depression_rate": 19
+    },
+    {
+        "state": "Indiana",
+        "depression_rate": 21
+    },
+    {
+        "state": "Iowa",
+        "depression_rate": 4
+    },
+    {
+        "state": "Kansas",
+        "depression_rate": 42
+    },
+    {
+        "state": "Kentucky",
+        "depression_rate": 30
+    },
+    {
+        "state": "Louisiana",
+        "depression_rate": 40
+    },
+    {
+        "state": "Maine",
+        "depression_rate": 5
+    },
+    {
+        "state": "Maryland",
+        "depression_rate": 11
+    },
+    {
+        "state": "Massachusetts",
+        "depression_rate": 2
+    },
+    {
+        "state": "Michigan",
+        "depression_rate": 14
+    },
+    {
+        "state": "Minnesota",
+        "depression_rate": 7
+    },
+    {
+        "state": "Mississippi",
+        "depression_rate": 47
+    },
+    {
+        "state": "Missouri",
+        "depression_rate": 25
+    },
+    {
+        "state": "Montana",
+        "depression_rate": 27
+    },
+    {
+        "state": "Nebraska",
+        "depression_rate": 33
+    },
+    {
+        "state": "Nevada",
+        "depression_rate": 48
+    },
+    {
+        "state": "New Hampshire",
+        "depression_rate": 9
+    },
+    {
+        "state": "New Jersey",
+        "depression_rate": 32
+    },
+    {
+        "state": "New Mexico",
+        "depression_rate": 20
+    },
+    {
+        "state": "New York",
+        "depression_rate": 15
+    },
+    {
+        "state": "North Carolina",
+        "depression_rate": 43
+    },
+    {
+        "state": "North Dakota",
+        "depression_rate": 17
+    },
+    {
+        "state": "Ohio",
+        "depression_rate": 10
+    },
+    {
+        "state": "Oklahoma",
+        "depression_rate": 38
+    },
+    {
+        "state": "Oregon",
+        "depression_rate": 23
+    },
+    {
+        "state": "Pennsylvania",
+        "depression_rate": 12
+    },
+    {
+        "state": "Rhode Island",
+        "depression_rate": 3
+    },
+    {
+        "state": "South Carolina",
+        "depression_rate": 46
+    },
+    {
+        "state": "South Dakota",
+        "depression_rate": 29
+    },
+    {
+        "state": "Tennessee",
+        "depression_rate": 41
+    },
+    {
+        "state": "Texas",
+        "depression_rate": 50
+    },
+    {
+        "state": "Utah",
+        "depression_rate": 37
+    },
+    {
+        "state": "Vermont",
+        "depression_rate": 1
+    },
+    {
+        "state": "Virginia",
+        "depression_rate": 36
+    },
+    {
+        "state": "Washington",
+        "depression_rate": 24
+    },
+    {
+        "state": "West Virginia",
+        "depression_rate": 28
+    },
+    {
+        "state": "Wisconsin",
+        "depression_rate": 6
+    },
+    {
+        "state": "Wyoming",
+        "depression_rate": 44
+    },
+    {
+        "state": "District of Columbia",
+        "depression_rate": 19
+    }
+]
