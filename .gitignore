@@ -126,3 +126,4 @@ venv.bak/
 dmypy.json
 
 pyqt_music_app.py
+draw.py
