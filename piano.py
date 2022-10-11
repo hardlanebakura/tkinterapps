@@ -2,8 +2,8 @@ from tkinter import *
 import os
 from keys import *
 from playsound import playsound
-from threading import Thread
-
+import cProfile
+import pstats
 
 #playsound needs pip install playsound==1.2.2
 
@@ -26,7 +26,7 @@ frame = Frame(root, width = 740, height = 210, bg = "yellow")
 frame.place(relx = 0.05, rely = 0.1)
 
 for i in range(len(WHITE_KEYS)):
-    Button(frame, width = 2, height = 14, text = WHITE_KEYS[i], bg = "#fff", command = lambda j=i: Thread(target=clicked_key(WHITE_KEYS[i])).start()).place(x = 7 + 20*i, y = 10)
+    Button(frame, width = 2, height = 14, text = WHITE_KEYS[i], bg = "#fff", command = lambda j=i: WHITE_KEYS[i]).place(x = 7 + 20*i, y = 10)
 
 for i in range(len(BLACK_KEY_INDEXES)):
     distance = 19 + 20 * BLACK_KEY_INDEXES[i]
@@ -34,6 +34,15 @@ for i in range(len(BLACK_KEY_INDEXES)):
 
 for key in WHITE_KEYS + BLACK_KEYS:
     root.bind(f"<{key}>", lambda key: clicked_key(key.char))
+
+import cProfile, pstats
+
+profiler = cProfile.Profile()
+profiler.enable()
+clicked_key("s")
+profiler.disable()
+stats = pstats.Stats(profiler).sort_stats('cumtime')
+stats.print_stats(4)
 
 root.bind("<Escape>", lambda e: root.destroy())
 
