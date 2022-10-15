@@ -34,13 +34,23 @@ def get_label_for_correct(data):
     label_functional["text"] = data["fl"]
     label_stems["text"] = ", ".join(data["meta"]["stems"])
     meaning_text = ""
+    label_meaning["text"] = ""
+    print(data["def"][0]["sseq"])
     for item in data["def"][0]["sseq"]:
-        meanings = list(item[0][1].keys())
-        meaning = item[0][1][meanings[1]] if len(meanings) > 1 else item[0][1][meanings[0]]
+        meaning_text = get_meaning(item[0][1], meaning_text) if type(item[0][1]) == dict else get_meaning(item[0][1][0][1], meaning_text)
+    label_meaning["text"] += meaning_text
+    label_audio.pack_forget() if audio_file == None else label_audio.pack()
+    label_audio.sound_file = audio_file
+
+def get_meaning(d, meaning_text):
+    meanings = list(d.keys())
+    meaning = d[meanings[1]] if len(meanings) > 1 else d[meanings[0]]
+    if type(meaning) == list and meaning[0][0] == "text":
         meaning = re.sub(r'{bc}|{it}|{/it}', "", meaning[0][1])
         meaning_text += meaning + "\n"
-        label_meaning["text"] = meaning_text
-    label_audio.pack_forget() if audio_file == None else label_audio.pack()
+    elif type(meaning) == dict and "dt" in meaning:
+        meaning_text += re.sub(r'{bc}|{it}|{/it}', "", meaning["dt"][0][1]) + "\n"
+    return meaning_text
 
 def display_labels(data):
     #print(data)
@@ -76,6 +86,7 @@ label_name.pack()
 label_phonetic = Label(root)
 label_phonetic.pack()
 label_audio = Label(root, image = image)
+label_audio.bind("<Button-1>", lambda e: playsound(e.widget.sound_file))
 label_meaning = Label(root)
 label_meaning.pack()
 label_functional = Label(root)

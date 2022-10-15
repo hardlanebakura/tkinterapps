@@ -127,3 +127,7 @@ dmypy.json
 
 pyqt_music_app.py
 draw.py
+snake_game.py
+draw_test_1.jpg
+draw_test_2.jpg
+custom_headers.json
